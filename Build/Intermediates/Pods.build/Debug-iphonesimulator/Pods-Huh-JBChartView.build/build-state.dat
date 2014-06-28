@@ -127,7 +127,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf4bfc429335fb941^b3ecc529335fb941^---0#1#1#--18"Check dependencies36"13334929-1A50-45D9-95B9-AEE1085D5C39-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3c6866e2665fb941^0dc367e2665fb941^---0#1#1#--18"Check dependencies36"FB269EBB-550B-49DB-A1E4-6599649BAF8C-
 
 CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-JBChartView.build/Objects-normal/i386/JBBarChartView.o /Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBBarChartView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s425662322.314358

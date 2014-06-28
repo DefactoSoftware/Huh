@@ -22,8 +22,6 @@
 
     self.firebase = [[Firebase alloc] initWithUrl:@"https://huh.firebaseio.com/huh_list"];
 
-    NSLog(@"Firebase: %@", self.firebase);
-
     [self.firebase observeEventType:FEventTypeValue withBlock:^(FDataSnapshot *snapshot) {
         NSLog(@"Shit went down: %@: %@", snapshot.name, snapshot.value);
     }];
@@ -41,9 +39,10 @@
 
 - (IBAction)huhButtonTapped:(id)sender {
     NSDate *now = [[NSDate alloc] init];
+    NSString *dateString = [[self dateFormatter] stringFromDate:now];
     NSString *deviceId = [[[UIDevice currentDevice]identifierForVendor] UUIDString];
     Firebase *huh = [self.firebase childByAutoId];
-    [huh setValue:@{ @"createdAt": [NSString stringWithFormat:@"%@", now], @"udid": deviceId }];
+    [huh setValue:@{ @"createdAt": [NSString stringWithFormat:@"%@", dateString], @"udid": deviceId }];
 }
 
 #pragma mark - JBChart Delegate/Datasource
@@ -56,7 +55,9 @@
     return 10;
 }
 
-- (CGFloat)lineChartView:(JBLineChartView *)lineChartView verticalValueForHorizontalIndex:(NSUInteger)horizontalIndex atLineIndex:(NSUInteger)lineIndex {
+-           (CGFloat)lineChartView:(JBLineChartView *)lineChartView
+   verticalValueForHorizontalIndex:(NSUInteger)horizontalIndex
+                       atLineIndex:(NSUInteger)lineIndex {
     return (CGFloat)rand() / RAND_MAX;
 }
 
@@ -68,5 +69,21 @@
     return [UIColor whiteColor];
 }
 
+#pragma mark - Date Formatting
+
+- (NSDate *)dateFromISO8601String:(NSString *)dateString {
+
+    NSDate *dateFromString = [[self dateFormatter] dateFromString:dateString];
+    return dateFromString;
+}
+
+- (NSDateFormatter *)dateFormatter {
+    static NSDateFormatter *dateFormatter;
+    if (!dateFormatter) {
+        dateFormatter = [[NSDateFormatter alloc] init];
+        [dateFormatter setDateFormat:@"yyyy-MM-dd'T'HH:mm:ssZ"];
+    }
+    return dateFormatter;
+}
 
 @end

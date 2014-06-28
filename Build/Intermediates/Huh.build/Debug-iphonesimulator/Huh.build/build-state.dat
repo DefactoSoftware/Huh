@@ -6,8 +6,8 @@ cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/jurre/defacto/Huh/Build/
 cProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-dnqxehqcouhkkngihjvfrcnrapnf/Huh-Prefix.pch.pch Huh/Huh-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHSessionTableViewCell.o /Users/jurre/defacto/Huh/Huh/Views/HUHSessionTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHAppDelegate.o /Users/jurre/defacto/Huh/Huh/HUHAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/main.o /Users/jurre/defacto/Huh/Huh/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHSessionsTableViewController.o /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/main.o /Users/jurre/defacto/Huh/Huh/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHViewController.o /Users/jurre/defacto/Huh/Huh/HUHViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Huh normal i386
 cCopyStringsFile /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/en.lproj/InfoPlist.strings Huh/en.lproj/InfoPlist.strings
@@ -257,12 +257,12 @@ t1403985885
 s44648
 
 N/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHSessionsTableViewController.o
-t1403989858
-s58456
+t1403994391
+s61484
 
 N/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHViewController.o
-t1403985885
-s60912
+t1403994518
+s62400
 
 N/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/Huh.LinkFileList
 c0000000053AF1FDD000000000000027E
@@ -296,11 +296,11 @@ t1403969522
 s121876
 
 N/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app
-t1403989858
+t1403994518
 s306
 
 N/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app.dSYM
-t1403989703
+t1403994478
 s102
 
 N/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Base.lproj/Main.storyboardc
@@ -308,8 +308,8 @@ t1403988355
 s238
 
 N/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Huh
-t1403989858
-s1307836
+t1403994518
+s1304280
 
 N/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Info.plist
 t1403969524
@@ -344,14 +344,14 @@ t1403959623
 s2009
 
 N/Users/jurre/defacto/Huh/Huh/HUHViewController.h
-c0000000053AEF7CA0000000000000192
-t1403975626
-s402
+c0000000053AF3EF700000000000001C6
+t1403993847
+s454
 
 N/Users/jurre/defacto/Huh/Huh/HUHViewController.m
-c0000000053AF1FDC00000000000009D7
-t1403985884
-s2519
+c0000000053AF41960000000000000A2F
+t1403994518
+s2607
 
 N/Users/jurre/defacto/Huh/Huh/Huh-Info.plist
 c0000000053AEB94700000000000004C6
@@ -374,9 +374,9 @@ t1403985028
 s245
 
 N/Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m
-c0000000053AF2F6200000000000008D2
-t1403989858
-s2258
+c0000000053AF411700000000000009BB
+t1403994391
+s2491
 
 N/Users/jurre/defacto/Huh/Huh/Views/HUHSessionTableViewCell.h
 c0000000053AF1BE80000000000000157
@@ -585,7 +585,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies95b96de2665fb941^c4e86de2665fb941^---0#1#1#--18"Check dependencies36"E82AC99D-4C5D-427D-9560-9522216B47F4-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc2c2b516795fb941^626abf16795fb941^---0#1#1#--18"Check dependencies36"AC683925-2BBB-4686-8320-B246C4E40ECE-
 
 CCompileAssetCatalog /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app /Users/jurre/defacto/Huh/Huh/Images.xcassets
 s425662323.122391
@@ -635,8 +635,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile
 bDD2223DC-9B6A-4142-94F6-3FDA4BE4EE72
 
 CCompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHSessionsTableViewController.o /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s425682658.448572
-e425682658.512709
+s425687191.468639
+e425687191.548081
 r1
 xCompileC
 xBuild/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHSessionsTableViewController.o
@@ -654,12 +654,13 @@ d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FDataSnapshot
 d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FMutableData.h
 d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FTransactionResult.h
 d/Users/jurre/defacto/Huh/Huh/Views/HUHSessionTableViewCell.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m244"CompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHSessionsTableViewController.o Huh/ViewControllers/HUHSessionsTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere60673e2665fb941^6cb183e2665fb941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m0000000000000000^3754"CompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHSessionsTableViewController.o Huh/ViewControllers/HUHSessionsTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Huh-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Huh-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Huh-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Huh-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -F/Users/jurre/defacto/Huh/Pods/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Headers -isystem /Users/jurre/defacto/Huh/Pods/Headers/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Headers/JBChartView -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-dnqxehqcouhkkngihjvfrcnrapnf/Huh-Prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHSessionsTableViewController.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHSessionsTableViewController.dia -c /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHSessionsTableViewController.o36"BBFC1831-637C-454B-8D43-D47D2BCC8C28-
-b3B978640-55A5-4950-85BC-0A53FE25EEA1
+d/Users/jurre/defacto/Huh/Huh/HUHViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m244"CompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHSessionsTableViewController.o Huh/ViewControllers/HUHSessionsTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6f117897785fb941^7f4f8c97785fb941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m0000000000000000^3754"CompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHSessionsTableViewController.o Huh/ViewControllers/HUHSessionsTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Huh-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Huh-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Huh-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Huh-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -F/Users/jurre/defacto/Huh/Pods/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Headers -isystem /Users/jurre/defacto/Huh/Pods/Headers/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Headers/JBChartView -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-dnqxehqcouhkkngihjvfrcnrapnf/Huh-Prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHSessionsTableViewController.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHSessionsTableViewController.dia -c /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHSessionsTableViewController.o36"78E15E82-E1E7-49AC-A9FB-C3A340D2B2F8-
+b0F2D482E-F725-4C70-9314-E113B75A6F42
 
 CCompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHViewController.o /Users/jurre/defacto/Huh/Huh/HUHViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s425678685.099951
-e425678685.542703
+s425687318.723939
+e425687318.805226
 r1
 xCompileC
 xBuild/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHViewController.o
@@ -676,8 +677,8 @@ d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FEventType.h
 d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FDataSnapshot.h
 d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FMutableData.h
 d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FTransactionResult.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/jurre/defacto/Huh/Huh/HUHViewController.m202"CompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHViewController.o Huh/HUHViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere7aa195d575fb941^17f48a5d575fb941^---0#0#1#-19%DVTDocumentLocation2@55"file:///Users/jurre/defacto/Huh/Huh/HUHViewController.m0000000000000000^3644"CompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHViewController.o Huh/HUHViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Huh-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Huh-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Huh-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Huh-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -F/Users/jurre/defacto/Huh/Pods/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Headers -isystem /Users/jurre/defacto/Huh/Pods/Headers/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Headers/JBChartView -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-dnqxehqcouhkkngihjvfrcnrapnf/Huh-Prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHViewController.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHViewController.dia -c /Users/jurre/defacto/Huh/Huh/HUHViewController.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHViewController.o36"9BA3592C-42CE-448F-B804-B2F0956898AD-
-bDD2223DC-9B6A-4142-94F6-3FDA4BE4EE72
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/jurre/defacto/Huh/Huh/HUHViewController.m202"CompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHViewController.o Huh/HUHViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf166b916795fb941^dd24ce16795fb941^---0#0#1#-19%DVTDocumentLocation2@55"file:///Users/jurre/defacto/Huh/Huh/HUHViewController.m0000000000000000^3644"CompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHViewController.o Huh/HUHViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Huh-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Huh-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Huh-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Huh-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -F/Users/jurre/defacto/Huh/Pods/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Headers -isystem /Users/jurre/defacto/Huh/Pods/Headers/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Headers/JBChartView -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-dnqxehqcouhkkngihjvfrcnrapnf/Huh-Prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHViewController.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHViewController.dia -c /Users/jurre/defacto/Huh/Huh/HUHViewController.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/HUHViewController.o36"E502284B-C285-47C7-ACD3-20673A01D476-
+b482177A4-2549-437F-9813-C1096253F860
 
 CCompileC Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/main.o /Users/jurre/defacto/Huh/Huh/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s425662322.854862
@@ -715,18 +716,18 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Copy Hu
 b507938DA-093B-4608-8218-657FCAB6AF07
 
 CGenerateDSYMFile /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app.dSYM /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Huh
-s425682658.619801
-e425682658.688414
+s425687318.941239
+e425687319.035835
 r1
 xGenerateDSYMFile
 x/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app.dSYM
 x/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Huh
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Generate /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app.dSYM115"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Huh.app.dSYM Build/Products/Debug-iphonesimulator/Huh.app/Huh52b89ee2665fb941^7d3cb0e2665fb941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app.dSYM/0000000000000000^595"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Huh.app.dSYM Build/Products/Debug-iphonesimulator/Huh.app/Huh    cd /Users/jurre/defacto/Huh    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Huh -o /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app.dSYM36"5C9C4D21-55FD-477A-B86B-7712B2C5A35C-
-b3B978640-55A5-4950-85BC-0A53FE25EEA1
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Generate /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app.dSYM115"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Huh.app.dSYM Build/Products/Debug-iphonesimulator/Huh.app/Huh1901f116795fb941^232d0917795fb941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app.dSYM/0000000000000000^595"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Huh.app.dSYM Build/Products/Debug-iphonesimulator/Huh.app/Huh    cd /Users/jurre/defacto/Huh    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Huh -o /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app.dSYM36"176D711E-9488-4DA4-8CDD-8E68603A5850-
+b482177A4-2549-437F-9813-C1096253F860
 
 CLd /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Huh normal i386
-s425682658.515633
-e425682658.618261
+s425687318.807061
+e425687318.938689
 r1
 xLd
 x/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Huh
@@ -758,7 +759,6 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/D
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++abi.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
@@ -781,6 +781,7 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/D
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
 d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++abi.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
 d/usr/lib/system/libcache.dylib
@@ -808,22 +809,22 @@ d/usr/lib/system/libsystem_pthread.dylib
 d/usr/lib/system/libsystem_sandbox.dylib
 d/usr/lib/system/libunc.dylib
 d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Link /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Huh63"Ld Build/Products/Debug-iphonesimulator/Huh.app/Huh normal i3867b1284e2665fb941^56479ee2665fb941^---0#0#1#--1431"Ld Build/Products/Debug-iphonesimulator/Huh.app/Huh normal i386    cd /Users/jurre/defacto/Huh    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -F/Users/jurre/defacto/Huh/Pods/Firebase -filelist /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/Huh.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -lc++ -licucore -framework CFNetwork -framework Firebase -framework Security -framework SystemConfiguration -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -lPods-Huh -Xlinker -dependency_info -Xlinker /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/Huh_dependency_info.dat -o /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Huh36"EEF2FA06-981C-4CCD-88B4-6112B02E5C54-
-b3B978640-55A5-4950-85BC-0A53FE25EEA1
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Link /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Huh63"Ld Build/Products/Debug-iphonesimulator/Huh.app/Huh normal i38671a9ce16795fb941^5bb4f416795fb941^---0#0#1#--1431"Ld Build/Products/Debug-iphonesimulator/Huh.app/Huh normal i386    cd /Users/jurre/defacto/Huh    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -F/Users/jurre/defacto/Huh/Pods/Firebase -filelist /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/Huh.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -lc++ -licucore -framework CFNetwork -framework Firebase -framework Security -framework SystemConfiguration -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -lPods-Huh -Xlinker -dependency_info -Xlinker /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Objects-normal/i386/Huh_dependency_info.dat -o /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Huh36"3A0BCE47-0250-458D-81AD-AEA06F0E8925-
+b482177A4-2549-437F-9813-C1096253F860
 
 CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Script-4D3EFC10E105434DBE125445.sh
-s425682658.429677
-e425682658.447298
+s425687318.710993
+e425687318.722876
 r1
 xPhaseScriptExecution
 xCheck Pods Manifest.lock
 x/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Script-4D3EFC10E105434DBE125445.sh
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'144"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Script-4D3EFC10E105434DBE125445.sh9b756ee2665fb941^2c8372e2665fb941^---0#0#1#--314"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Script-4D3EFC10E105434DBE125445.sh    cd /Users/jurre/defacto/Huh    /bin/sh -c /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Script-4D3EFC10E105434DBE125445.sh36"152C32F8-8D05-4F7F-A471-149F5E40658E-
-b3B978640-55A5-4950-85BC-0A53FE25EEA1
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'144"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Script-4D3EFC10E105434DBE125445.sh0471b616795fb941^616ebf16795fb941^---0#0#1#--314"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Script-4D3EFC10E105434DBE125445.sh    cd /Users/jurre/defacto/Huh    /bin/sh -c /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Script-4D3EFC10E105434DBE125445.sh36"894A15E9-F257-431A-8CED-5CA214D58EF8-
+b482177A4-2549-437F-9813-C1096253F860
 
 CPhaseScriptExecution Copy\ Pods\ Resources /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Script-9F8A0DBDCA1C45F1BD3413F4.sh
-s425682658.688880
-e425682659.011851
+s425687319.036325
+e425687319.402346
 r1
 xPhaseScriptExecution
 xCopy Pods Resources
@@ -835,8 +836,8 @@ ototal size is 0  speedup is 0.00
 o/* com.apple.actool.compilation-results */
 o/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Assets.car
 o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'139"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Script-9F8A0DBDCA1C45F1BD3413F4.sha0a8b0e2665fb941^850903e3665fb941^-237"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.00/* com.apple.actool.compilation-results *//Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Assets.car5(21%IDEActivityLogMessage2@28"building file list ... done-425682658#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-425682658#29#50#-0#-----2@33"total size is 0  speedup is 0.00-425682658#79#33#-0#-----2@43"/* com.apple.actool.compilation-results */-425682659#112#43#-0#-----2@81"/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Assets.car-425682659#155#81#-0#-----0#0#1#--309"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Script-9F8A0DBDCA1C45F1BD3413F4.sh    cd /Users/jurre/defacto/Huh    /bin/sh -c /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Script-9F8A0DBDCA1C45F1BD3413F4.sh36"449B05FC-4B8C-441E-9C4C-410361BF2E04-
-b3B978640-55A5-4950-85BC-0A53FE25EEA1
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'139"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Script-9F8A0DBDCA1C45F1BD3413F4.sh62d80917795fb941^b3277517795fb941^-237"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.00/* com.apple.actool.compilation-results *//Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Assets.car5(21%IDEActivityLogMessage2@28"building file list ... done-425687319#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-425687319#29#50#-0#-----2@33"total size is 0  speedup is 0.00-425687319#79#33#-0#-----2@43"/* com.apple.actool.compilation-results */-425687319#112#43#-0#-----2@81"/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Assets.car-425687319#155#81#-0#-----0#0#1#--309"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Script-9F8A0DBDCA1C45F1BD3413F4.sh    cd /Users/jurre/defacto/Huh    /bin/sh -c /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphonesimulator/Huh.build/Script-9F8A0DBDCA1C45F1BD3413F4.sh36"78B90B31-24CE-40D1-B611-250ACA57F3AB-
+b482177A4-2549-437F-9813-C1096253F860
 
 CProcessInfoPlistFile /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/Huh.app/Info.plist /Users/jurre/defacto/Huh/Huh/Huh-Info.plist
 s425662324.257862

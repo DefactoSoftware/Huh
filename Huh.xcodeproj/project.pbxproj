@@ -130,8 +130,6 @@
 				076E93FA195EF0C70017B641 /* HUHAppDelegate.h */,
 				076E93FB195EF0C70017B641 /* HUHAppDelegate.m */,
 				076E93FD195EF0C70017B641 /* Main.storyboard */,
-				076E9400195EF0C70017B641 /* HUHViewController.h */,
-				076E9401195EF0C70017B641 /* HUHViewController.m */,
 				076E9403195EF0C70017B641 /* Images.xcassets */,
 				076E93F2195EF0C70017B641 /* Supporting Files */,
 			);
@@ -177,6 +175,8 @@
 		0791A545195F44B600C1AF5B /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				076E9400195EF0C70017B641 /* HUHViewController.h */,
+				076E9401195EF0C70017B641 /* HUHViewController.m */,
 				0791A54A195F540500C1AF5B /* HUHSessionsTableViewController.h */,
 				0791A54B195F540500C1AF5B /* HUHSessionsTableViewController.m */,
 			);

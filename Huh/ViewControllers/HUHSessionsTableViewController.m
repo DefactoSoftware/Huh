@@ -9,6 +9,7 @@
 #import "HUHSessionsTableViewController.h"
 #import <Firebase/Firebase.h>
 #import "HUHSessionTableViewCell.h"
+#import "HUHViewController.h"
 
 static NSString *const HUHFirebaseSessionsURL = @"https://huh.firebaseio.com/sessions";
 static NSString *const HUHSessionTableCellIdentifier = @"HUHSessionTableCellIdentifier";
@@ -35,15 +36,12 @@ static NSString *const HUHSessionTableCellIdentifier = @"HUHSessionTableCellIden
         [self.sessions removeAllObjects];
         
         for (FDataSnapshot *session in snapshot.children) {
-            [self.sessions addObject:session.value];
+            NSDictionary *sessionDictionary = session.value;
+            [sessionDictionary setValue:session.name forKeyPath:@"sessionId"];
+            [self.sessions addObject:sessionDictionary];
         }
         [self.tableView reloadData];
     }];
-    // Uncomment the following line to preserve selection between presentations.
-    // self.clearsSelectionOnViewWillAppear = NO;
-    
-    // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
-    // self.navigationItem.rightBarButtonItem = self.editButtonItem;
 }
 
 - (void)didReceiveMemoryWarning {
@@ -63,6 +61,15 @@ static NSString *const HUHSessionTableCellIdentifier = @"HUHSessionTableCellIden
     cell.titleLabel.text = session[@"title"];
     cell.authorLabel.text = session[@"authorName"];
     return cell;
+}
+
+#pragma mark - Segue
+
+- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
+    HUHViewController *destinationViewController = segue.destinationViewController;
+    NSIndexPath *indexPath = [self.tableView indexPathForSelectedRow];
+    NSDictionary *session = self.sessions[indexPath.row];
+    destinationViewController.sessionId = session[@"sessionId"];
 }
 
 @end

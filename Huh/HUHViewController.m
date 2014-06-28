@@ -20,7 +20,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    self.firebase = [[Firebase alloc] initWithUrl:@"https://huh.firebaseio.com/huh_list"];
+    NSString *endpoint = [NSString stringWithFormat:@"https://huh.firebaseio.com/sessions/%@/huhs", self.sessionId];
+
+    self.firebase = [[Firebase alloc] initWithUrl:endpoint];
 
     [self.firebase observeEventType:FEventTypeValue withBlock:^(FDataSnapshot *snapshot) {
         NSLog(@"Shit went down: %@: %@", snapshot.name, snapshot.value);

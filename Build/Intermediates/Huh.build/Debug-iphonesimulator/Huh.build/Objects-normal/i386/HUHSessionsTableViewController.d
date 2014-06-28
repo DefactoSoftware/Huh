@@ -7,4 +7,5 @@ dependencies: \
   /Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FDataSnapshot.h \
   /Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FMutableData.h \
   /Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FTransactionResult.h \
-  /Users/jurre/defacto/Huh/Huh/Views/HUHSessionTableViewCell.h
+  /Users/jurre/defacto/Huh/Huh/Views/HUHSessionTableViewCell.h \
+  /Users/jurre/defacto/Huh/Huh/HUHViewController.h

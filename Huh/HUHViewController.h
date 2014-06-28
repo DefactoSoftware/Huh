@@ -7,7 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "JBLineChartView.h"
 
-@interface HUHViewController : UIViewController
+@interface HUHViewController : UIViewController <JBLineChartViewDelegate, JBLineChartViewDataSource>
+
+@property (nonatomic, weak) IBOutlet JBLineChartView *lineChart;
+
+- (IBAction)huhButtonTapped:(id)sender;
 
 @end

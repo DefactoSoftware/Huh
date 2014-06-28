@@ -2,7 +2,8 @@
 # platform :ios, "6.0"
 
 target "Huh" do
-  pod 'Firebase', '~> 1.0.0'
+  pod 'JBChartView', '~> 2.5.5'
+  pod 'Firebase'
 end
 
 target "HuhTests" do

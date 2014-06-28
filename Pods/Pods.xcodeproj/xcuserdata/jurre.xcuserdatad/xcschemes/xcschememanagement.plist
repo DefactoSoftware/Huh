@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-Huh-JBChartView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-Huh.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -16,6 +21,22 @@
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict/>
+	<dict>
+		<key>442DBB9DC0D1432A99226D29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>81D551E354634276A566AA80</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AED7C8D5BEC04E7CA84F5097</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
 </dict>
 </plist>

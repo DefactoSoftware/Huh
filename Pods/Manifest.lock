@@ -1,10 +1,13 @@
 PODS:
-  - Firebase (1.0.9)
+  - Firebase (1.1.9)
+  - JBChartView (2.5.5)
 
 DEPENDENCIES:
-  - Firebase (~> 1.0.0)
+  - Firebase
+  - JBChartView (~> 2.5.5)
 
 SPEC CHECKSUMS:
-  Firebase: 9ed1c8e37b4ea658c3a9eb5539edfc5fb8933f21
+  Firebase: 389b4d1f1a8f4b9ed53abec2aa62a3ceeafd7fcd
+  JBChartView: 666486d81dd16fa0cfac7bc32b4b70d6c52e7162
 
 COCOAPODS: 0.33.1

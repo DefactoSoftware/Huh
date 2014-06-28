@@ -1,2 +1,2 @@
 PODS_HUH_FIREBASE_FRAMEWORK_SEARCH_PATHS = "$(PODS_ROOT)/Firebase"
-PODS_HUH_FIREBASE_OTHER_LDFLAGS = -ObjC -licucore -framework CFNetwork -framework Firebase -framework Security
+PODS_HUH_FIREBASE_OTHER_LDFLAGS = -ObjC -lc++ -licucore -framework CFNetwork -framework Firebase -framework Security -framework SystemConfiguration

@@ -1,0 +1,93 @@
+TPods-Huh
+v6
+r1
+cCheck dependencies
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/Objects-normal/i386/Pods-Huh-dummy.o /Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053201F470000000000A90C10
+t1394614087
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534858210000000000000198
+t1397250081
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053201F5700000000000003B4
+t1394614103
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053201F5D000000000000019E
+t1394614109
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053201F790000000000000ADC
+t1394614137
+s2780
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/Objects-normal/i386/Pods-Huh-dummy.o
+t1403969522
+s3092
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/Objects-normal/i386/Pods-Huh.LinkFileList
+c0000000053AEDFF20000000000000082
+t1403969522
+s130
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh-Firebase.a
+c0000000053AEDFF20000000000000E78
+t1403969522
+s3704
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh-JBChartView.a
+c0000000053AEDFF2000000000006C608
+t1403969522
+s443912
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh.a
+t1403969522
+s450784
+
+N/Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m
+c0000000053AEDFEC0000000000000078
+t1403969516
+s120
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies31eaca29335fb941^8063cb29335fb941^---0#1#1#--18"Check dependencies36"DA4CF4A2-4D57-497E-BF57-FCED4E95964F-
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/Objects-normal/i386/Pods-Huh-dummy.o /Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425662322.647599
+e425662322.753056
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/Objects-normal/i386/Pods-Huh-dummy.o
+x/Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m223"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/Objects-normal/i386/Pods-Huh-dummy.o Pods-Huh-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler44dba572175fb941^86c9c072175fb941^---0#0#1#-19%DVTDocumentLocation2@53"file:///Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m0000000000000000^3524"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/Objects-normal/i386/Pods-Huh-dummy.o Pods-Huh-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/Pods-Huh-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/Pods-Huh-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/Pods-Huh-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/Pods-Huh-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -F/Users/jurre/defacto/Huh/Pods/Pods/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Pods/Headers -isystem /Users/jurre/defacto/Huh/Pods/Pods/Headers/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Pods/Headers/JBChartView -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/Objects-normal/i386/Pods-Huh-dummy.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/Objects-normal/i386/Pods-Huh-dummy.dia -c /Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/Objects-normal/i386/Pods-Huh-dummy.o36"BFAFE93F-B498-4E42-A7A0-92E0191FB568-
+bBA5E3E85-CBAC-4CD7-B4F0-4817F978A524
+
+CLibtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh.a normal i386
+s425662322.753688
+e425662322.765160
+r1
+xLibtool
+x/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Libtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh.a normal i38695"Libtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh.a normal i386b400c172175fb941^61e2c372175fb941^---0#0#1#--974"Libtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh.a normal i386    cd /Users/jurre/defacto/Huh/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -filelist /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh.build/Objects-normal/i386/Pods-Huh.LinkFileList -framework Foundation -lPods-Huh-Firebase -lPods-Huh-JBChartView -o /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh.a36"E4F18A0B-D3D6-4D95-8D0C-70201DB04861-
+bBA5E3E85-CBAC-4CD7-B4F0-4817F978A524
+

@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBOpenGraphActionParams.m \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBOpenGraphActionParams+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBOpenGraphActionParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBDialogsParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBOpenGraphAction.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBSDKMacros.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBAppBridge.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAppCall.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAccessTokenData.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBSession.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAppLinkData.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBDialogsData.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBAppBridgeScheme.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBDialogsParams+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBError.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBInternalSettings.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBSettings.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBLogger.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBOpenGraphActionShareDialogParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBUtility.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBFetchedAppSettings.h

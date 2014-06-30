@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/UI/FBLikeActionController.m \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/UI/FBLikeActionController.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBSDKMacros.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Insights/FBAppEvents+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAppEvents.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBSession.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBDataDiskCache.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBDialogs+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBDialogs.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAppCall.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAccessTokenData.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAppLinkData.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBDialogsData.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBLinkShareParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBDialogsParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBOpenGraphActionParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBOpenGraphAction.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBPhotoParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBLikeDialogParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBError.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBErrorUtility+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBErrorUtility.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBInternalSettings.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBSettings.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBLikeButtonPopWAV.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBAudioResourceLoader.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBLogger.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Network/FBRequest+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBRequest.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBOpenGraphObject.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBRequestConnection.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBUtility.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBFetchedAppSettings.h

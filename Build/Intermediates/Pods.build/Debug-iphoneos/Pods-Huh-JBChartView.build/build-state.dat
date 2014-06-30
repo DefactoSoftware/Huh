@@ -1,0 +1,245 @@
+TPods-Huh-JBChartView
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-hachadkcjxqtwjeefuwhhuhsalfz/Pods-Huh-JBChartView-prefix.pch.pch Pods-Huh-JBChartView-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-gmxtfzzheazixgfqjjmdowwvdeie/Pods-Huh-JBChartView-prefix.pch.pch Pods-Huh-JBChartView-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBBarChartView.o /Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBBarChartView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBChartView.o /Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBChartView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBLineChartView.o /Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBLineChartView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/Pods-Huh-JBChartView-dummy.o /Users/jurre/defacto/Huh/Pods/Pods-Huh-JBChartView-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh-JBChartView.a normal arm64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534857F80000000000000132
+t1397250040
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c0000000053201F43000000000000036B
+t1394614083
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053201F44000000000000019E
+t1394614084
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053201F470000000000A90C10
+t1394614087
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053201F790000000000000ADC
+t1394614137
+s2780
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBBarChartView.o
+t1404024582
+s123632
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBChartView.o
+t1404024582
+s71568
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBLineChartView.o
+t1404024583
+s243100
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/Pods-Huh-JBChartView-dummy.o
+t1404024582
+s4236
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/Pods-Huh-JBChartView.LinkFileList
+c0000000053AFB706000000000000022A
+t1404024582
+s554
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-gmxtfzzheazixgfqjjmdowwvdeie/Pods-Huh-JBChartView-prefix.pch.pch
+t1404024582
+s117696
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-hachadkcjxqtwjeefuwhhuhsalfz/Pods-Huh-JBChartView-prefix.pch.pch
+t1404024582
+s118108
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh-JBChartView.a
+t1404024583
+s446224
+
+N/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBBarChartView.h
+c0000000053AEC09600000000000011F3
+t1403961494
+s4595
+
+N/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBBarChartView.m
+c0000000053AEC096000000000000483B
+t1403961494
+s18491
+
+N/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBChartView.h
+c0000000053AEC0960000000000000EBB
+t1403961494
+s3771
+
+N/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBChartView.m
+c0000000053AEC09600000000000013F9
+t1403961494
+s5113
+
+N/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBLineChartView.h
+c0000000053AEC0960000000000002A87
+t1403961494
+s10887
+
+N/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBLineChartView.m
+c0000000053AEC096000000000000DBAB
+t1403961494
+s56235
+
+N/Users/jurre/defacto/Huh/Pods/Pods-Huh-JBChartView-dummy.m
+c0000000053AF5D850000000000000090
+t1404001669
+s144
+
+N/Users/jurre/defacto/Huh/Pods/Pods-Huh-JBChartView-prefix.pch
+c0000000053AF5D850000000000000051
+t1404001669
+s81
+
+N/Users/jurre/defacto/Huh/Pods/Pods-Huh-environment.h
+c0000000053AF5D85000000000000049A
+t1404001669
+s1178
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBBarChartView.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBChartView.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBLineChartView.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/Pods-Huh-JBChartView-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc4607a370a60b941^50a798370a60b941^---0#1#1#--18"Check dependencies36"5C3A66BF-1AD1-473F-B415-6A2C7D21B0DD-
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBBarChartView.o /Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBBarChartView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425717382.602408
+e425717382.852464
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBBarChartView.o
+x/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBBarChartView.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBBarChartView.m
+d/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBBarChartView.h
+d/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBChartView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBBarChartView.m250"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBBarChartView.o JBChartView/Classes/JBBarChartView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb5549a86ee5fb941^bc3bda86ee5fb941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBBarChartView.m0000000000000000^3806"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBBarChartView.o JBChartView/Classes/JBBarChartView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/JBChartView -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/DerivedSources/arm64 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-hachadkcjxqtwjeefuwhhuhsalfz/Pods-Huh-JBChartView-prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBBarChartView.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBBarChartView.dia -c /Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBBarChartView.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBBarChartView.o36"C7A4DA3B-D9FB-4EB6-97AB-EFA24B3A8043-
+b5F6F210A-F082-48D2-BDD7-2D1EAA0B69A8
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBChartView.o /Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBChartView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425717382.624852
+e425717382.778694
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBChartView.o
+x/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBChartView.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBChartView.m
+d/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBChartView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBChartView.m244"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBChartView.o JBChartView/Classes/JBChartView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerec17a086ee5fb941^e258c786ee5fb941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBChartView.m0000000000000000^3788"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBChartView.o JBChartView/Classes/JBChartView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/JBChartView -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/DerivedSources/arm64 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-hachadkcjxqtwjeefuwhhuhsalfz/Pods-Huh-JBChartView-prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBChartView.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBChartView.dia -c /Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBChartView.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBChartView.o36"41202734-54AE-40A1-B09A-3278AA4A652C-
+b5F6F210A-F082-48D2-BDD7-2D1EAA0B69A8
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBLineChartView.o /Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBLineChartView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425717382.666351
+e425717383.082167
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBLineChartView.o
+x/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBLineChartView.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBLineChartView.m
+d/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBLineChartView.h
+d/Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBChartView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBLineChartView.m252"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBLineChartView.o JBChartView/Classes/JBLineChartView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler42b4aa86ee5fb941^14401587ee5fb941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBLineChartView.m0000000000000000^3812"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBLineChartView.o JBChartView/Classes/JBLineChartView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/JBChartView -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/DerivedSources/arm64 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-hachadkcjxqtwjeefuwhhuhsalfz/Pods-Huh-JBChartView-prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBLineChartView.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBLineChartView.dia -c /Users/jurre/defacto/Huh/Pods/JBChartView/Classes/JBLineChartView.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/JBLineChartView.o36"C4D87CF1-F048-4ABF-930E-3ED1744A5CC4-
+b5F6F210A-F082-48D2-BDD7-2D1EAA0B69A8
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/Pods-Huh-JBChartView-dummy.o /Users/jurre/defacto/Huh/Pods/Pods-Huh-JBChartView-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425717382.779805
+e425717382.845872
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/Pods-Huh-JBChartView-dummy.o
+x/Users/jurre/defacto/Huh/Pods/Pods-Huh-JBChartView-dummy.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Pods-Huh-JBChartView-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/jurre/defacto/Huh/Pods/Pods-Huh-JBChartView-dummy.m254"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/Pods-Huh-JBChartView-dummy.o Pods-Huh-JBChartView-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6bf3c786ee5fb941^1d90d886ee5fb941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/jurre/defacto/Huh/Pods/Pods-Huh-JBChartView-dummy.m0000000000000000^3827"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/Pods-Huh-JBChartView-dummy.o Pods-Huh-JBChartView-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/JBChartView -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/DerivedSources/arm64 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-gmxtfzzheazixgfqjjmdowwvdeie/Pods-Huh-JBChartView-prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/Pods-Huh-JBChartView-dummy.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/Pods-Huh-JBChartView-dummy.dia -c /Users/jurre/defacto/Huh/Pods/Pods-Huh-JBChartView-dummy.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/Pods-Huh-JBChartView-dummy.o36"F5C6A8A4-FE6D-483D-8DE2-4C8B27B2F739-
+b5F6F210A-F082-48D2-BDD7-2D1EAA0B69A8
+
+CLibtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh-JBChartView.a normal arm64
+s425717383.117781
+e425717383.131446
+r1
+xLibtool
+x/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh-JBChartView.a
+xnormal
+xarm64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Libtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh-JBChartView.a normal arm64101"Libtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh-JBChartView.a normal arm645c3a1e87ee5fb941^bc912187ee5fb941^---0#0#1#--933"Libtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh-JBChartView.a normal arm64    cd /Users/jurre/defacto/Huh/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only arm64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -filelist /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Objects-normal/arm64/Pods-Huh-JBChartView.LinkFileList -framework Foundation -o /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh-JBChartView.a36"24C4A35F-9E4E-44F6-839F-03C63B808189-
+b5F6F210A-F082-48D2-BDD7-2D1EAA0B69A8
+
+CProcessPCH /Users/jurre/Library/Developer/Xcode/DerivedData/Huh-dycbxueijepidgdfaqhzvwvwiwiu/Index/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-ewjbdzqcsdwomydyendkhdawxnyw_ast/Pods-Huh-JBChartView-prefix.pch.pch Pods-Huh-JBChartView-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/jurre/Library/Developer/Xcode/DerivedData/Huh-dycbxueijepidgdfaqhzvwvwiwiu/Index/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-fjgnzpsyoadrrghkjqcmcnaahanc_ast/Pods-Huh-JBChartView-prefix.pch.pch Pods-Huh-JBChartView-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-gmxtfzzheazixgfqjjmdowwvdeie/Pods-Huh-JBChartView-prefix.pch.pch Pods-Huh-JBChartView-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425717382.525129
+e425717382.590709
+r1
+xProcessPCH
+x/Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-gmxtfzzheazixgfqjjmdowwvdeie/Pods-Huh-JBChartView-prefix.pch.pch
+xPods-Huh-JBChartView-prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Pods-Huh-JBChartView-prefix.pch
+d/Users/jurre/defacto/Huh/Pods/Pods-Huh-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Precompile Pods-Huh-JBChartView-prefix.pch268"ProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-gmxtfzzheazixgfqjjmdowwvdeie/Pods-Huh-JBChartView-prefix.pch.pch Pods-Huh-JBChartView-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2dd08686ee5fb941^d6389786ee5fb941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/jurre/defacto/Huh/Pods/Pods-Huh-JBChartView-prefix.pch0000000000000000^3712"ProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-gmxtfzzheazixgfqjjmdowwvdeie/Pods-Huh-JBChartView-prefix.pch.pch Pods-Huh-JBChartView-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/JBChartView -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/DerivedSources/arm64 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-gmxtfzzheazixgfqjjmdowwvdeie/Pods-Huh-JBChartView-prefix.pch.dia -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-gmxtfzzheazixgfqjjmdowwvdeie/Pods-Huh-JBChartView-prefix.pch.d -c /Users/jurre/defacto/Huh/Pods/Pods-Huh-JBChartView-prefix.pch -o /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-gmxtfzzheazixgfqjjmdowwvdeie/Pods-Huh-JBChartView-prefix.pch.pch36"206DA8A3-DA51-4F91-9D4D-EFBE8D888AF8-
+b5F6F210A-F082-48D2-BDD7-2D1EAA0B69A8
+
+CProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-hachadkcjxqtwjeefuwhhuhsalfz/Pods-Huh-JBChartView-prefix.pch.pch Pods-Huh-JBChartView-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425717382.498358
+e425717382.562539
+r1
+xProcessPCH
+x/Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-hachadkcjxqtwjeefuwhhuhsalfz/Pods-Huh-JBChartView-prefix.pch.pch
+xPods-Huh-JBChartView-prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Pods-Huh-JBChartView-prefix.pch
+d/Users/jurre/defacto/Huh/Pods/Pods-Huh-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Precompile Pods-Huh-JBChartView-prefix.pch268"ProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-hachadkcjxqtwjeefuwhhuhsalfz/Pods-Huh-JBChartView-prefix.pch.pch Pods-Huh-JBChartView-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler92cf7f86ee5fb941^c1029086ee5fb941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/jurre/defacto/Huh/Pods/Pods-Huh-JBChartView-prefix.pch0000000000000000^3723"ProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-hachadkcjxqtwjeefuwhhuhsalfz/Pods-Huh-JBChartView-prefix.pch.pch Pods-Huh-JBChartView-prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/Pods-Huh-JBChartView-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/JBChartView -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/DerivedSources/arm64 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh-JBChartView.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -fobjc-arc --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-hachadkcjxqtwjeefuwhhuhsalfz/Pods-Huh-JBChartView-prefix.pch.dia -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-hachadkcjxqtwjeefuwhhuhsalfz/Pods-Huh-JBChartView-prefix.pch.d -c /Users/jurre/defacto/Huh/Pods/Pods-Huh-JBChartView-prefix.pch -o /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-JBChartView-prefix-hachadkcjxqtwjeefuwhhuhsalfz/Pods-Huh-JBChartView-prefix.pch.pch36"9B88CB3C-B6C4-497E-B362-C088D4AA5589-
+b5F6F210A-F082-48D2-BDD7-2D1EAA0B69A8
+

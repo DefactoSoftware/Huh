@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/UI/FBLikeControl.m \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBLikeControl.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBSDKMacros.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Insights/FBAppEvents+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAppEvents.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBSession.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBDialogs+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBDialogs.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAppCall.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAccessTokenData.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAppLinkData.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBDialogsData.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBLinkShareParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBDialogsParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBOpenGraphActionParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBOpenGraphAction.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBPhotoParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBLikeDialogParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/UI/FBLikeActionController.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/UI/FBLikeBoxView.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/UI/FBLikeButton.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/UI/FBViewImpressionTracker.h

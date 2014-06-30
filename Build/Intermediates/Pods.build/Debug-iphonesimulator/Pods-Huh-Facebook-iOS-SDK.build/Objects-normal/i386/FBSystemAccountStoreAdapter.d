@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Login/FBSystemAccountStoreAdapter.m \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Login/FBSystemAccountStoreAdapter.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Login/FBSession+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBSDKMacros.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBSession.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Login/FBSessionAppEventsState.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBTask.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBTaskCompletionSource.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAccessTokenData.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBDynamicFrameworkLoader.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBError.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBErrorUtility+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBErrorUtility.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBInternalSettings.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBSettings.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBLogger.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBUtility.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBFetchedAppSettings.h

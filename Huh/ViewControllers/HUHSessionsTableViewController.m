@@ -9,7 +9,7 @@
 #import "HUHSessionsTableViewController.h"
 #import <Firebase/Firebase.h>
 #import "HUHSessionTableViewCell.h"
-#import "HUHViewController.h"
+#import "HUHCheckinViewController.h"
 
 static NSString *const HUHFirebaseSessionsURL = @"https://huh.firebaseio.com/sessions";
 static NSString *const HUHSessionTableCellIdentifier = @"HUHSessionTableCellIdentifier";
@@ -26,6 +26,8 @@ static NSString *const HUHSessionTableCellIdentifier = @"HUHSessionTableCellIden
 - (void)viewDidLoad {
     [super viewDidLoad];
 
+    self.navigationItem.hidesBackButton = YES;
+
     self.firebase = [[Firebase alloc] initWithUrl:HUHFirebaseSessionsURL];
 
     NSLog(@"Firebase: %@", self.firebase);
@@ -38,7 +40,11 @@ static NSString *const HUHSessionTableCellIdentifier = @"HUHSessionTableCellIden
         for (FDataSnapshot *session in snapshot.children) {
             NSDictionary *sessionDictionary = session.value;
             [sessionDictionary setValue:session.name forKeyPath:@"sessionId"];
-            [self.sessions addObject:sessionDictionary];
+            if (!sessionDictionary[@"endedAt"]) {
+                [self.sessions addObject:sessionDictionary];
+            } else {
+                NSLog(@"Session ended: %@", sessionDictionary);
+            }
         }
         [self.tableView reloadData];
     }];
@@ -66,10 +72,10 @@ static NSString *const HUHSessionTableCellIdentifier = @"HUHSessionTableCellIden
 #pragma mark - Segue
 
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
-    HUHViewController *destinationViewController = segue.destinationViewController;
+    HUHCheckinViewController *destinationViewController = segue.destinationViewController;
     NSIndexPath *indexPath = [self.tableView indexPathForSelectedRow];
     NSDictionary *session = self.sessions[indexPath.row];
-    destinationViewController.sessionId = session[@"sessionId"];
+    destinationViewController.session = session;
 }
 
 @end

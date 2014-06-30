@@ -1,0 +1,108 @@
+TPods-Huh
+v6
+r1
+cCheck dependencies
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/Objects-normal/arm64/Pods-Huh-dummy.o /Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh.a normal arm64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534857F80000000000000132
+t1397250040
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c0000000053201F43000000000000036B
+t1394614083
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053201F44000000000000019E
+t1394614084
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053201F470000000000A90C10
+t1394614087
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053201F790000000000000ADC
+t1394614137
+s2780
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/Objects-normal/arm64/Pods-Huh-dummy.o
+t1404024586
+s3884
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/Objects-normal/arm64/Pods-Huh.LinkFileList
+c0000000053AFB70A000000000000007C
+t1404024586
+s124
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh-Bolts.a
+c0000000053AFB707000000000007C1B0
+t1404024583
+s508336
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh-CRToast.a
+c0000000053AFB70700000000000480C0
+t1404024583
+s295104
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh-Facebook-iOS-SDK.a
+c0000000053AFB70A0000000000514DF0
+t1404024586
+s5328368
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh-Firebase.a
+c0000000053AFB70600000000000011A0
+t1404024582
+s4512
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh-JBChartView.a
+c0000000053AFB707000000000006CF10
+t1404024583
+s446224
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh.a
+t2
+s0
+
+N/Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m
+c0000000053AF5D850000000000000078
+t1404001669
+s120
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies09a4388aee5fb941^0e2e398aee5fb941^---0#1#1#--18"Check dependencies36"7591D8D0-0765-477C-B857-E006C990292E-
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/Objects-normal/arm64/Pods-Huh-dummy.o /Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425717386.224245
+e425717386.246501
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/Objects-normal/arm64/Pods-Huh-dummy.o
+x/Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m218"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/Objects-normal/arm64/Pods-Huh-dummy.o Pods-Huh-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3789398aee5fb941^bd1b3f8aee5fb941^---0#0#1#-19%DVTDocumentLocation2@53"file:///Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m0000000000000000^3859"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/Objects-normal/arm64/Pods-Huh-dummy.o Pods-Huh-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/Pods-Huh-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/Pods-Huh-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/Pods-Huh-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/Pods-Huh-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/include -I/Users/jurre/defacto/Huh/Pods/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/DerivedSources/arm64 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -F/Users/jurre/defacto/Huh/Pods/Pods/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Pods/Headers -isystem /Users/jurre/defacto/Huh/Pods/Pods/Headers/Bolts -isystem /Users/jurre/defacto/Huh/Pods/Pods/Headers/CRToast -isystem /Users/jurre/defacto/Huh/Pods/Pods/Headers/Facebook-iOS-SDK -isystem /Users/jurre/defacto/Huh/Pods/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/jurre/defacto/Huh/Pods/Pods/Headers/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Pods/Headers/JBChartView -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/Objects-normal/arm64/Pods-Huh-dummy.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/Objects-normal/arm64/Pods-Huh-dummy.dia -c /Users/jurre/defacto/Huh/Pods/Pods-Huh-dummy.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/Objects-normal/arm64/Pods-Huh-dummy.o36"19EF1F84-609A-4E67-B521-1D894EBD8D40-
+bF7A60AAC-B0E0-4DD6-8D0C-4FE041922BA3
+
+CLibtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh.a normal arm64
+s425717386.247154
+e425717386.412677
+r1
+xLibtool
+x/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh.a
+xnormal
+xarm64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Libtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh.a normal arm6489"Libtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh.a normal arm64e3543f8aee5fb941^09a7698aee5fb941^---0#0#1#--992"Libtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh.a normal arm64    cd /Users/jurre/defacto/Huh/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only arm64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -filelist /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Huh.build/Objects-normal/arm64/Pods-Huh.LinkFileList -framework Foundation -lPods-Huh-Bolts -lPods-Huh-CRToast -lPods-Huh-Facebook-iOS-SDK -lPods-Huh-Firebase -lPods-Huh-JBChartView -o /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh.a36"DA4B5BF2-58FE-4A1A-9330-CECB08671ED7-
+bF7A60AAC-B0E0-4DD6-8D0C-4FE041922BA3
+

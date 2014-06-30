@@ -8,10 +8,13 @@
 
 #import "HUHViewController.h"
 #import <Firebase/Firebase.h>
+#import "CRToast.h"
 
 @interface HUHViewController ()
 
 @property (nonatomic, strong) Firebase *firebase;
+
+@property NSInteger huhCount;
 
 @end
 
@@ -28,9 +31,13 @@
         NSLog(@"Shit went down: %@: %@", snapshot.name, snapshot.value);
     }];
 
+    self.huhCount = 18;
+
     self.lineChart.delegate = self;
     self.lineChart.dataSource = self;
     [self.lineChart reloadData];
+        [CRToastManager showNotificationWithOptions:@{ kCRToastTextKey: @"Successfully checked in!", kCRToastBackgroundColorKey: [UIColor colorWithRed:0.345 green:1.000 blue:0.614 alpha:1.000]}
+                                completionBlock:nil];
 }
 
 - (void)didReceiveMemoryWarning {
@@ -45,6 +52,11 @@
     NSString *deviceId = [[[UIDevice currentDevice]identifierForVendor] UUIDString];
     Firebase *huh = [self.firebase childByAutoId];
     [huh setValue:@{ @"createdAt": [NSString stringWithFormat:@"%@", dateString], @"udid": deviceId }];
+    self.huhCount = self.huhCount + 1;
+    [CRToastManager showNotificationWithOptions:@{ kCRToastTextKey: @"Successfully checked in!", kCRToastBackgroundColorKey: [UIColor colorWithRed:0.345 green:1.000 blue:0.614 alpha:1.000]}
+                                completionBlock:nil];
+    self.statLabel.text = [NSString stringWithFormat:@"%ld huhs by 11 people", (long)self.huhCount];
+    [self.lineChart reloadData];
 }
 
 #pragma mark - JBChart Delegate/Datasource
@@ -54,7 +66,7 @@
 }
 
 - (NSUInteger)lineChartView:(JBLineChartView *)lineChartView numberOfVerticalValuesAtLineIndex:(NSUInteger)lineIndex {
-    return 10;
+    return self.huhCount;
 }
 
 -           (CGFloat)lineChartView:(JBLineChartView *)lineChartView

@@ -1,9 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="5056" systemVersion="13D65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="hqT-ge-0DK">
     <dependencies>
+        <deployment defaultVersion="1792" identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
     </dependencies>
     <scenes>
+        <!--Checkin View Controller-->
+        <scene sceneID="GSL-ih-ioz">
+            <objects>
+                <viewController id="OMW-xk-m4p" customClass="HUHCheckinViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Ev9-ko-asB"/>
+                        <viewControllerLayoutGuide type="bottom" id="QRg-wh-mrn"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="BVM-94-PFL">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Hoorcollege Anatomie 1" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="l4C-BG-VDB">
+                                <rect key="frame" x="20" y="105" width="317" height="42"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="26"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Drs. Afferden, PHD" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mvv-IS-g3Y">
+                                <rect key="frame" x="20" y="155" width="280" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="29/6/2014 10:00" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vgw-mr-qQJ">
+                                <rect key="frame" x="183" y="233" width="117" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="o5w-gr-WsH">
+                                <rect key="frame" x="20" y="190" width="64" height="64"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.40784317260000003" green="0.62352943419999995" blue="0.70980393890000004" alpha="1" colorSpace="deviceRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="K9y-YC-p67">
+                        <barButtonItem key="rightBarButtonItem" title="Check In" id="pzP-vg-cqM">
+                            <connections>
+                                <action selector="checkIn:" destination="OMW-xk-m4p" id="6AJ-2B-qc3"/>
+                                <segue destination="vXZ-lx-hvc" kind="push" identifier="SegueIdentifierCheckin" id="S8n-zU-dHh"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <connections>
+                        <outlet property="authorImageView" destination="o5w-gr-WsH" id="jMI-9y-Ypd"/>
+                        <outlet property="authorNameLabel" destination="Mvv-IS-g3Y" id="wYX-Ya-FSQ"/>
+                        <outlet property="dateLabel" destination="vgw-mr-qQJ" id="VYu-mI-5Av"/>
+                        <outlet property="titleLabel" destination="l4C-BG-VDB" id="dee-J0-H4J"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="a1Z-iu-47f" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="920" y="117"/>
+        </scene>
         <!--View Controller - Huh?-->
         <scene sceneID="ufC-wZ-h7g">
             <objects>
@@ -18,11 +75,9 @@
                         <subviews>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="gTX-wf-8ZS">
                                 <rect key="frame" x="0.0" y="64" width="320" height="236"/>
-                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="uuo-w0-yig" customClass="JBLineChartView">
                                         <rect key="frame" x="0.0" y="11" width="320" height="213"/>
-                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                         <color key="backgroundColor" white="1" alpha="0.0" colorSpace="calibratedWhite"/>
                                     </view>
                                 </subviews>
@@ -30,21 +85,18 @@
                             </view>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="15:34" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4lY-Pt-zGe">
                                 <rect key="frame" x="7" y="304" width="43" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="16:04" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fff-dG-1CV">
                                 <rect key="frame" x="270" y="304" width="43" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ewd-ns-mkG">
                                 <rect key="frame" x="88" y="368" width="144" height="120"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="130"/>
                                 <size key="titleShadowOffset" width="3" height="3"/>
                                 <state key="normal" title="?">
@@ -57,14 +109,12 @@
                             </button>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="18 huhs by 11 people" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="z7e-vG-bId">
                                 <rect key="frame" x="77" y="504" width="166" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="in the last 30 min" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="g5v-sw-wpj">
                                 <rect key="frame" x="95" y="527" width="131" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
@@ -75,11 +125,12 @@
                     <navigationItem key="navigationItem" title="Huh?" id="xFH-MQ-2GN"/>
                     <connections>
                         <outlet property="lineChart" destination="uuo-w0-yig" id="Tbi-P5-acr"/>
+                        <outlet property="statLabel" destination="z7e-vG-bId" id="zXB-jQ-mzh"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="940" y="117"/>
+            <point key="canvasLocation" x="1341" y="117"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="7P8-7h-gzj">
@@ -92,12 +143,52 @@
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
-                        <segue destination="WO6-1A-AaI" kind="relationship" relationship="rootViewController" id="1uE-DX-Y0q"/>
+                        <segue destination="sXQ-Ct-NPc" kind="relationship" relationship="rootViewController" id="Xn0-4l-Ips"/>
                     </connections>
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ukP-sa-gUs" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="78" y="117"/>
+            <point key="canvasLocation" x="-317" y="112"/>
+        </scene>
+        <!--Login View Controller - Login-->
+        <scene sceneID="QxU-Xl-RiQ">
+            <objects>
+                <viewController id="sXQ-Ct-NPc" customClass="HUHLoginViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="XK0-nO-Tfn"/>
+                        <viewControllerLayoutGuide type="bottom" id="eEE-2M-hhg"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="myx-xq-i8N">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" fixedFrame="YES" image="sidebar-bg.png" translatesAutoresizingMaskIntoConstraints="NO" id="FvH-Dz-ofI">
+                                <rect key="frame" x="-104" y="-492" width="425" height="1100"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7Jl-oD-xbp">
+                                <rect key="frame" x="47" y="178" width="234" height="41"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <state key="normal" title="Sign in with Facebook">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="loginWithFacebook:" destination="sXQ-Ct-NPc" eventType="touchUpInside" id="Aca-CA-GoG"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.40784317260000003" green="0.62352943419999995" blue="0.70980393890000004" alpha="1" colorSpace="deviceRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Login" id="Ltv-nh-tgD"/>
+                    <connections>
+                        <segue destination="WO6-1A-AaI" kind="push" identifier="SegueIdentifierLogin" id="KEL-1i-Jyf"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="gCC-ao-KwO" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="108" y="117"/>
         </scene>
         <!--Sessions Table View Controller - Sessions-->
         <scene sceneID="Cyy-1s-DSI">
@@ -116,15 +207,13 @@
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Hoorcollege Anatomie 1" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZKH-be-nzA">
-                                            <rect key="frame" x="20" y="11" width="247" height="21"/>
-                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <rect key="frame" x="20" y="17" width="247" height="21"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                             <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                             <nil key="highlightedColor"/>
                                         </label>
                                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Drs. Afferden, PHD" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LsX-Di-UuG">
                                             <rect key="frame" x="20" y="46" width="146" height="21"/>
-                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="15"/>
                                             <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                             <nil key="highlightedColor"/>
@@ -135,7 +224,7 @@
                                 <connections>
                                     <outlet property="authorLabel" destination="LsX-Di-UuG" id="sAT-ff-1zR"/>
                                     <outlet property="titleLabel" destination="ZKH-be-nzA" id="MEc-CQ-pKI"/>
-                                    <segue destination="vXZ-lx-hvc" kind="push" id="Knk-Gx-APz"/>
+                                    <segue destination="OMW-xk-m4p" kind="push" id="DaV-fD-2Gx"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
@@ -148,9 +237,12 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="74h-yE-0I3" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="494" y="117"/>
+            <point key="canvasLocation" x="515" y="117"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="sidebar-bg.png" width="425" height="1100"/>
+    </resources>
     <color key="tintColor" red="0.68627452850000004" green="0.68627452850000004" blue="0.68627452850000004" alpha="1" colorSpace="calibratedRGB"/>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>

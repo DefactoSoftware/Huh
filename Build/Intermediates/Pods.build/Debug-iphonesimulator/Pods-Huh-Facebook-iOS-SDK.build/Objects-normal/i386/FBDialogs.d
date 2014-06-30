@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBDialogs.m \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBDialogs+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBDialogs.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAppCall.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAccessTokenData.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBSession.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBSDKMacros.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAppLinkData.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBDialogsData.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBLinkShareParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBDialogsParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBOpenGraphActionParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBOpenGraphAction.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBPhotoParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBLikeDialogParams.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBDialogsData+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBDialogsParams+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/_FBMAppBridgeScheme.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBAppBridgeScheme+Subclass.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBAppBridgeScheme.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBAppBridge.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Login/FBAccessTokenData+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBAppCall+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Insights/FBAppEvents+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAppEvents.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBAppLinkData+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBDynamicFrameworkLoader.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBError.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/DeviceAPI/FBOpenGraphActionParams+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBSettings+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBInternalSettings.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBSettings.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBUtility.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBFetchedAppSettings.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBLogger.h

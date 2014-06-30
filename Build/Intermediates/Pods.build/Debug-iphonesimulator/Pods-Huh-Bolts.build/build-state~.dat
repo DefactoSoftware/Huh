@@ -1,0 +1,511 @@
+TPods-Huh-Bolts
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch.pch Pods-Huh-Bolts-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-gdzzcdlgiqcgbkfpeqmjptqnlefz/Pods-Huh-Bolts-prefix.pch.pch Pods-Huh-Bolts-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLink.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkNavigation.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkNavigation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererController.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererView.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkTarget.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkTarget.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFExecutor.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFExecutor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTask.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTask.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTaskCompletionSource.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTaskCompletionSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFURL.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFURL.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFWebViewAppLinkResolver.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Bolts.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/Bolts.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Pods-Huh-Bolts-dummy.o /Users/jurre/defacto/Huh/Pods/Pods-Huh-Bolts-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh-Bolts.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053201F470000000000A90C10
+t1394614087
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534858210000000000000198
+t1397250081
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053201F5700000000000003B4
+t1394614103
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053201F5D000000000000019E
+t1394614109
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053201F790000000000000ADC
+t1394614137
+s2780
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLink.o
+t1404027074
+s11336
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkNavigation.o
+t1404027074
+s32216
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererController.o
+t1404027074
+s87516
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererView.o
+t1404027074
+s92692
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkTarget.o
+t1404027074
+s9096
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFExecutor.o
+t1404027074
+s26720
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTask.o
+t1404027074
+s60308
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTaskCompletionSource.o
+t1404027074
+s14872
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFURL.o
+t1404027074
+s25364
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFWebViewAppLinkResolver.o
+t1404027074
+s99048
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Bolts.o
+t1404027074
+s5228
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Pods-Huh-Bolts-dummy.o
+t1404027074
+s3380
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Pods-Huh-Bolts.LinkFileList
+c0000000053AFC0C1000000000000067D
+t1404027073
+s1661
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch.pch
+t1404027074
+s125044
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-gdzzcdlgiqcgbkfpeqmjptqnlefz/Pods-Huh-Bolts-prefix.pch.pch
+t1404027074
+s124044
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh-Bolts.a
+t2
+s0
+
+N/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.m
+c0000000053AF5C0B00000000000004B5
+t1404001291
+s1205
+
+N/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkNavigation.m
+c0000000053AF5C0B0000000000001C8E
+t1404001291
+s7310
+
+N/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m
+c0000000053AF5C0B0000000000002580
+t1404001291
+s9600
+
+N/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m
+c0000000053AF5C0B0000000000001CC2
+t1404001291
+s7362
+
+N/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkTarget.m
+c0000000053AF5C0B00000000000002C8
+t1404001291
+s712
+
+N/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFExecutor.m
+c0000000053AF5C0B0000000000000DD5
+t1404001291
+s3541
+
+N/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTask.m
+c0000000053AF5C0B000000000000279B
+t1404001291
+s10139
+
+N/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTaskCompletionSource.m
+c0000000053AF5C0B00000000000006BF
+t1404001291
+s1727
+
+N/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFURL.m
+c0000000053AF5C0B000000000000143C
+t1404001291
+s5180
+
+N/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m
+c0000000053AF5C0B0000000000003852
+t1404001291
+s14418
+
+N/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/Bolts.m
+c0000000053AF5C0B00000000000001CD
+t1404001291
+s461
+
+N/Users/jurre/defacto/Huh/Pods/Pods-Huh-Bolts-dummy.m
+c0000000053AF5D850000000000000084
+t1404001669
+s132
+
+N/Users/jurre/defacto/Huh/Pods/Pods-Huh-Bolts-prefix.pch
+c0000000053AF5D850000000000000051
+t1404001669
+s81
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkNavigation.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkTarget.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFExecutor.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTask.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTaskCompletionSource.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFURL.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/Bolts.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Pods/Pods-Huh-Bolts-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies263ab341f85fb941^01dbd141f85fb941^---0#1#1#--18"Check dependencies36"D846FCE0-5AD2-486B-A2B1-B068AD3A32B6-
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLink.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425719874.137740
+e425719874.372126
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLink.o
+x/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.m
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.m231"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLink.o Bolts/Bolts/BFAppLink.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7aa62342f85fb941^e5445f42f85fb941^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.m0000000000000000^3854"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLink.o Bolts/Bolts/BFAppLink.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLink.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLink.dia -c /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLink.o36"5284832D-DC07-4D17-9B86-3F00F4B28219-
+b84919D02-C3D6-4FBB-AA7F-695A3418A4B6
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkNavigation.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkNavigation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425719874.270145
+e425719874.419247
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkNavigation.o
+x/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkNavigation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkNavigation.m
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkNavigation.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTaskCompletionSource.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkTarget.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BoltsVersion.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkResolving.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFExecutor.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTask.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkNavigation.m251"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkNavigation.o Bolts/Bolts/BFAppLinkNavigation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerac564642f85fb941^d6536b42f85fb941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkNavigation.m0000000000000000^3914"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkNavigation.o Bolts/Bolts/BFAppLinkNavigation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkNavigation.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkNavigation.dia -c /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkNavigation.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkNavigation.o36"8F399BDD-F28B-4FCA-822E-C61D702BBEFB-
+b84919D02-C3D6-4FBB-AA7F-695A3418A4B6
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererController.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425719874.373529
+e425719874.546687
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererController.o
+x/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkNavigation.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView_Internal.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFURL.h
+o/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m:239:44: warning: undeclared selector 'returnToRefererController:willOpenAppLink:' [-Wundeclared-selector]
+o        if ([_delegate respondsToSelector:@selector(returnToRefererController:willOpenAppLink:)]) {
+o                                           ^
+o/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m:246:44: warning: undeclared selector 'returnToRefererController:didOpenURL:success:' [-Wundeclared-selector]
+o        if ([_delegate respondsToSelector:@selector(returnToRefererController:didOpenURL:success:)]) {
+o                                           ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m281"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererController.o Bolts/Bolts/BFAppLinkReturnToRefererController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere4c05f42f85fb941^a6278c42f85fb941^-688"/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m:239:44: warning: undeclared selector 'returnToRefererController:willOpenAppLink:' [-Wundeclared-selector]        if ([_delegate respondsToSelector:@selector(returnToRefererController:willOpenAppLink:)]) {                                           ^/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m:246:44: warning: undeclared selector 'returnToRefererController:didOpenURL:success:' [-Wundeclared-selector]        if ([_delegate respondsToSelector:@selector(returnToRefererController:didOpenURL:success:)]) {                                           ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@64"Undeclared selector 'returnToRefererController:willOpenAppLink:'-425719874#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@85"file:///Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m0000000000000000^238#43#238#43#9070#0#14"Semantic Issue--2@67"Undeclared selector 'returnToRefererController:didOpenURL:success:'-425719874#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m0000000000000000^245#43#245#43#9413#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@85"file:///Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m0000000000000000^4004"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererController.o Bolts/Bolts/BFAppLinkReturnToRefererController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererController.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererController.dia -c /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererController.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererController.o36"895D25BE-46E1-452D-B296-6194FAB9CFEF-
+b84919D02-C3D6-4FBB-AA7F-695A3418A4B6
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererView.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425719874.512317
+e425719874.671969
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererView.o
+x/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkNavigation.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkTarget.h
+o/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m:83:36: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        _labelView.textAlignment = UITextAlignmentCenter;
+o                                   ^
+oIn module 'UIKit' imported from /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.h:11:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m269"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererView.o Bolts/Bolts/BFAppLinkReturnToRefererView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler514b8342f85fb941^8c48ac42f85fb941^-676"/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m:83:36: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        _labelView.textAlignment = UITextAlignmentCenter;                                   ^In module 'UIKit' imported from /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.h:11:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-425719874#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-425719874#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@190"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2493#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m0000000000000000^82#35#82#35#2673#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@79"file:///Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m0000000000000000^3968"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererView.o Bolts/Bolts/BFAppLinkReturnToRefererView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererView.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererView.dia -c /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkReturnToRefererView.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkReturnToRefererView.o36"179C3504-A7A7-485F-8286-6996A603B4A0-
+b84919D02-C3D6-4FBB-AA7F-695A3418A4B6
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkTarget.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkTarget.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425719874.560821
+e425719874.618497
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkTarget.o
+x/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkTarget.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkTarget.m
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkTarget.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkTarget.m243"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkTarget.o Bolts/Bolts/BFAppLinkTarget.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfbaf8f42f85fb941^425b9e42f85fb941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkTarget.m0000000000000000^3890"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkTarget.o Bolts/Bolts/BFAppLinkTarget.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkTarget.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkTarget.dia -c /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkTarget.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFAppLinkTarget.o36"0AF344A2-BB58-4385-A5E7-0ED4472EC682-
+b84919D02-C3D6-4FBB-AA7F-695A3418A4B6
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFExecutor.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFExecutor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425719874.624196
+e425719874.702990
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFExecutor.o
+x/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFExecutor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFExecutor.m
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFExecutor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFExecutor.m233"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFExecutor.o Bolts/Bolts/BFExecutor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1539a042f85fb941^cff7b342f85fb941^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFExecutor.m0000000000000000^3860"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFExecutor.o Bolts/Bolts/BFExecutor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFExecutor.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFExecutor.dia -c /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFExecutor.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFExecutor.o36"960E6646-3943-4BA2-B8EC-B102F1BA7D6E-
+b84919D02-C3D6-4FBB-AA7F-695A3418A4B6
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTask.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTask.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425719874.671533
+e425719874.842625
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTask.o
+x/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTask.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTask.m
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTask.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFExecutor.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTaskCompletionSource.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/Bolts.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BoltsVersion.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkNavigation.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkTarget.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFURL.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTask.m225"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTask.o Bolts/Bolts/BFTask.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8f8dac42f85fb941^7715ee42f85fb941^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTask.m0000000000000000^3836"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTask.o Bolts/Bolts/BFTask.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTask.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTask.dia -c /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTask.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTask.o36"3E394A07-EB4E-4A39-B8E9-7C15C887BDB1-
+b84919D02-C3D6-4FBB-AA7F-695A3418A4B6
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTaskCompletionSource.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTaskCompletionSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425719874.681495
+e425719874.746248
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTaskCompletionSource.o
+x/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTaskCompletionSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTaskCompletionSource.m
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTaskCompletionSource.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTask.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTaskCompletionSource.m257"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTaskCompletionSource.o Bolts/Bolts/BFTaskCompletionSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2ee3ae42f85fb941^d312bf42f85fb941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTaskCompletionSource.m0000000000000000^3932"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTaskCompletionSource.o Bolts/Bolts/BFTaskCompletionSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTaskCompletionSource.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTaskCompletionSource.dia -c /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTaskCompletionSource.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFTaskCompletionSource.o36"D2392DE8-794E-44E1-AF84-4A97A8AB1FCF-
+b84919D02-C3D6-4FBB-AA7F-695A3418A4B6
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFURL.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFURL.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425719874.703253
+e425719874.804515
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFURL.o
+x/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFURL.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFURL.m
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFURL.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkTarget.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFURL.m223"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFURL.o Bolts/Bolts/BFURL.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1058b542f85fb941^730eee42f85fb941^---0#0#1#-19%DVTDocumentLocation2@56"file:///Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFURL.m0000000000000000^3830"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFURL.o Bolts/Bolts/BFURL.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFURL.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFURL.dia -c /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFURL.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFURL.o36"17F09087-837A-4140-8EAA-05465285694D-
+b84919D02-C3D6-4FBB-AA7F-695A3418A4B6
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFWebViewAppLinkResolver.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425719874.747847
+e425719874.968976
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFWebViewAppLinkResolver.o
+x/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkResolving.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkTarget.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTask.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTaskCompletionSource.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFExecutor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m261"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFWebViewAppLinkResolver.o Bolts/Bolts/BFWebViewAppLinkResolver.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3290bf42f85fb941^34d9f742f85fb941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m0000000000000000^3944"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFWebViewAppLinkResolver.o Bolts/Bolts/BFWebViewAppLinkResolver.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFWebViewAppLinkResolver.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFWebViewAppLinkResolver.dia -c /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFWebViewAppLinkResolver.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/BFWebViewAppLinkResolver.o36"B4DEE116-EF7F-499A-9989-BC544E1B7E2D-
+b84919D02-C3D6-4FBB-AA7F-695A3418A4B6
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Bolts.o /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/Bolts.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425719874.804804
+e425719874.906691
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Bolts.o
+x/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/Bolts.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/Bolts.m
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/Bolts.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BoltsVersion.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFExecutor.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTask.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFTaskCompletionSource.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkNavigation.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLink.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFAppLinkTarget.h
+d/Users/jurre/defacto/Huh/Pods/Bolts/Bolts/BFURL.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/Bolts.m223"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Bolts.o Bolts/Bolts/Bolts.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3db5ce42f85fb941^501aee42f85fb941^---0#0#1#-19%DVTDocumentLocation2@56"file:///Users/jurre/defacto/Huh/Pods/Bolts/Bolts/Bolts.m0000000000000000^3830"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Bolts.o Bolts/Bolts/Bolts.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Bolts.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Bolts.dia -c /Users/jurre/defacto/Huh/Pods/Bolts/Bolts/Bolts.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Bolts.o36"5A5C30DE-9508-4FED-B361-E13E745A93E0-
+b84919D02-C3D6-4FBB-AA7F-695A3418A4B6
+
+CCompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Pods-Huh-Bolts-dummy.o /Users/jurre/defacto/Huh/Pods/Pods-Huh-Bolts-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425719874.844912
+e425719874.909505
+r1
+xCompileC
+x/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Pods-Huh-Bolts-dummy.o
+x/Users/jurre/defacto/Huh/Pods/Pods-Huh-Bolts-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Pods-Huh-Bolts-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/jurre/defacto/Huh/Pods/Pods-Huh-Bolts-dummy.m241"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Pods-Huh-Bolts-dummy.o Pods-Huh-Bolts-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1a6ed842f85fb941^321dee42f85fb941^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/jurre/defacto/Huh/Pods/Pods-Huh-Bolts-dummy.m0000000000000000^3862"CompileC /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Pods-Huh-Bolts-dummy.o Pods-Huh-Bolts-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-gdzzcdlgiqcgbkfpeqmjptqnlefz/Pods-Huh-Bolts-prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Pods-Huh-Bolts-dummy.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Pods-Huh-Bolts-dummy.dia -c /Users/jurre/defacto/Huh/Pods/Pods-Huh-Bolts-dummy.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Pods-Huh-Bolts-dummy.o36"A4DE59A9-731F-4841-BDE2-FF0BAC6DDBED-
+b84919D02-C3D6-4FBB-AA7F-695A3418A4B6
+
+CLibtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh-Bolts.a normal i386
+s425719874.971069
+e425719874.983378
+r1
+xLibtool
+x/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh-Bolts.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Libtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh-Bolts.a normal i386101"Libtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh-Bolts.a normal i38618b0f842f85fb941^83c3fb42f85fb941^---0#0#1#--955"Libtool /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh-Bolts.a normal i386    cd /Users/jurre/defacto/Huh/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -filelist /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Objects-normal/i386/Pods-Huh-Bolts.LinkFileList -framework Foundation -o /Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/libPods-Huh-Bolts.a36"2451873D-9020-415B-AF07-042171C48B13-
+b84919D02-C3D6-4FBB-AA7F-695A3418A4B6
+
+CProcessPCH /Users/jurre/Library/Developer/Xcode/DerivedData/Huh-dycbxueijepidgdfaqhzvwvwiwiu/Index/PrecompiledHeaders/Pods-Huh-Bolts-prefix-cqdkwwzfngzgngffxrtditqocccf_ast/Pods-Huh-Bolts-prefix.pch.pch Pods-Huh-Bolts-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/jurre/Library/Developer/Xcode/DerivedData/Huh-dycbxueijepidgdfaqhzvwvwiwiu/Index/PrecompiledHeaders/Pods-Huh-Bolts-prefix-dsilhcazgnchcscuvvwqraqmyvba_ast/Pods-Huh-Bolts-prefix.pch.pch Pods-Huh-Bolts-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch.pch Pods-Huh-Bolts-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425719873.822216
+e425719874.135837
+r1
+xProcessPCH
+x/Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch.pch
+xPods-Huh-Bolts-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Pods-Huh-Bolts-prefix.pch
+d/Users/jurre/defacto/Huh/Pods/Pods-Huh-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Precompile Pods-Huh-Bolts-prefix.pch249"ProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch.pch Pods-Huh-Bolts-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3cdcd241f85fb941^54c72242f85fb941^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/jurre/defacto/Huh/Pods/Pods-Huh-Bolts-prefix.pch0000000000000000^3769"ProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch.pch Pods-Huh-Bolts-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch.dia -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch.d -c /Users/jurre/defacto/Huh/Pods/Pods-Huh-Bolts-prefix.pch -o /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-bjatoosdcntjavfpudjecaglatqd/Pods-Huh-Bolts-prefix.pch.pch36"2B49F00E-F89F-4E2E-BF46-2FB3D863B67A-
+b84919D02-C3D6-4FBB-AA7F-695A3418A4B6
+
+CProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-gdzzcdlgiqcgbkfpeqmjptqnlefz/Pods-Huh-Bolts-prefix.pch.pch Pods-Huh-Bolts-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425719874.062665
+e425719874.122482
+r1
+xProcessPCH
+x/Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-gdzzcdlgiqcgbkfpeqmjptqnlefz/Pods-Huh-Bolts-prefix.pch.pch
+xPods-Huh-Bolts-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Pods/Pods-Huh-Bolts-prefix.pch
+d/Users/jurre/defacto/Huh/Pods/Pods-Huh-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Precompile Pods-Huh-Bolts-prefix.pch249"ProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-gdzzcdlgiqcgbkfpeqmjptqnlefz/Pods-Huh-Bolts-prefix.pch.pch Pods-Huh-Bolts-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3f561042f85fb941^605b1f42f85fb941^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/jurre/defacto/Huh/Pods/Pods-Huh-Bolts-prefix.pch0000000000000000^3735"ProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-gdzzcdlgiqcgbkfpeqmjptqnlefz/Pods-Huh-Bolts-prefix.pch.pch Pods-Huh-Bolts-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/Pods-Huh-Bolts-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator/include -I/Users/jurre/defacto/Huh/Pods/BuildHeaders -I/Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources/i386 -I/Users/jurre/defacto/Huh/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Huh-Bolts.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-gdzzcdlgiqcgbkfpeqmjptqnlefz/Pods-Huh-Bolts-prefix.pch.dia -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-gdzzcdlgiqcgbkfpeqmjptqnlefz/Pods-Huh-Bolts-prefix.pch.d -c /Users/jurre/defacto/Huh/Pods/Pods-Huh-Bolts-prefix.pch -o /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Pods-Huh-Bolts-prefix-gdzzcdlgiqcgbkfpeqmjptqnlefz/Pods-Huh-Bolts-prefix.pch.pch36"34389454-7BE8-4539-990A-356B51B6353F-
+b84919D02-C3D6-4FBB-AA7F-695A3418A4B6
+

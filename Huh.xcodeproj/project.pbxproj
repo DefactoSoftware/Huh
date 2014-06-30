@@ -21,8 +21,14 @@
 		076E940D195EF0C70017B641 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 076E93EF195EF0C70017B641 /* UIKit.framework */; };
 		076E9415195EF0C70017B641 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 076E9413195EF0C70017B641 /* InfoPlist.strings */; };
 		076E9417195EF0C70017B641 /* HuhTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 076E9416195EF0C70017B641 /* HuhTests.m */; };
+		0777167C195F96DC008A5C3D /* HUHLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0777167B195F96DC008A5C3D /* HUHLoginViewController.m */; };
+		0777167E195F978C008A5C3D /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0777167D195F978C008A5C3D /* Social.framework */; };
+		07771680195F9798008A5C3D /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0777167F195F9798008A5C3D /* Accounts.framework */; };
+		07771684195F9814008A5C3D /* FirebaseSimpleLogin.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07771683195F9814008A5C3D /* FirebaseSimpleLogin.framework */; };
+		07771686195FF20F008A5C3D /* sidebar-bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 07771685195FF20F008A5C3D /* sidebar-bg.png */; };
 		0791A549195F531400C1AF5B /* HUHSessionTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0791A548195F531400C1AF5B /* HUHSessionTableViewCell.m */; };
 		0791A54C195F540500C1AF5B /* HUHSessionsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0791A54B195F540500C1AF5B /* HUHSessionsTableViewController.m */; };
+		0791A54F195F7DA600C1AF5B /* HUHCheckinViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0791A54E195F7DA600C1AF5B /* HUHCheckinViewController.m */; };
 		6EEABBAA7E6C47939F9A0882 /* libPods-Huh.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 59135FE85B4E468191CDA7E2 /* libPods-Huh.a */; };
 /* End PBXBuildFile section */
 
@@ -56,10 +62,18 @@
 		076E9412195EF0C70017B641 /* HuhTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HuhTests-Info.plist"; sourceTree = "<group>"; };
 		076E9414195EF0C70017B641 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		076E9416195EF0C70017B641 /* HuhTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HuhTests.m; sourceTree = "<group>"; };
+		0777167A195F96DC008A5C3D /* HUHLoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HUHLoginViewController.h; path = ViewControllers/HUHLoginViewController.h; sourceTree = "<group>"; };
+		0777167B195F96DC008A5C3D /* HUHLoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HUHLoginViewController.m; path = ViewControllers/HUHLoginViewController.m; sourceTree = "<group>"; };
+		0777167D195F978C008A5C3D /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
+		0777167F195F9798008A5C3D /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = System/Library/Frameworks/Accounts.framework; sourceTree = SDKROOT; };
+		07771683195F9814008A5C3D /* FirebaseSimpleLogin.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FirebaseSimpleLogin.framework; sourceTree = "<group>"; };
+		07771685195FF20F008A5C3D /* sidebar-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sidebar-bg.png"; sourceTree = "<group>"; };
 		0791A547195F531400C1AF5B /* HUHSessionTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HUHSessionTableViewCell.h; path = Views/HUHSessionTableViewCell.h; sourceTree = "<group>"; };
 		0791A548195F531400C1AF5B /* HUHSessionTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HUHSessionTableViewCell.m; path = Views/HUHSessionTableViewCell.m; sourceTree = "<group>"; };
 		0791A54A195F540500C1AF5B /* HUHSessionsTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HUHSessionsTableViewController.h; path = ViewControllers/HUHSessionsTableViewController.h; sourceTree = "<group>"; };
 		0791A54B195F540500C1AF5B /* HUHSessionsTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HUHSessionsTableViewController.m; path = ViewControllers/HUHSessionsTableViewController.m; sourceTree = "<group>"; };
+		0791A54D195F7DA600C1AF5B /* HUHCheckinViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HUHCheckinViewController.h; path = ViewControllers/HUHCheckinViewController.h; sourceTree = "<group>"; };
+		0791A54E195F7DA600C1AF5B /* HUHCheckinViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HUHCheckinViewController.m; path = ViewControllers/HUHCheckinViewController.m; sourceTree = "<group>"; };
 		59135FE85B4E468191CDA7E2 /* libPods-Huh.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Huh.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DF3717C2057416EBE50FEBA /* Pods-Huh.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Huh.xcconfig"; path = "Pods/Pods-Huh.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -69,7 +83,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07771680195F9798008A5C3D /* Accounts.framework in Frameworks */,
+				0777167E195F978C008A5C3D /* Social.framework in Frameworks */,
 				076E93EE195EF0C70017B641 /* CoreGraphics.framework in Frameworks */,
+				07771684195F9814008A5C3D /* FirebaseSimpleLogin.framework in Frameworks */,
 				076E93F0195EF0C70017B641 /* UIKit.framework in Frameworks */,
 				076E93EC195EF0C70017B641 /* Foundation.framework in Frameworks */,
 				6EEABBAA7E6C47939F9A0882 /* libPods-Huh.a in Frameworks */,
@@ -112,6 +129,9 @@
 		076E93EA195EF0C70017B641 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				07771683195F9814008A5C3D /* FirebaseSimpleLogin.framework */,
+				0777167F195F9798008A5C3D /* Accounts.framework */,
+				0777167D195F978C008A5C3D /* Social.framework */,
 				076E93EB195EF0C70017B641 /* Foundation.framework */,
 				076E93ED195EF0C70017B641 /* CoreGraphics.framework */,
 				076E93EF195EF0C70017B641 /* UIKit.framework */,
@@ -139,6 +159,7 @@
 		076E93F2195EF0C70017B641 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				07771685195FF20F008A5C3D /* sidebar-bg.png */,
 				076E93F3195EF0C70017B641 /* Huh-Info.plist */,
 				076E93F4195EF0C70017B641 /* InfoPlist.strings */,
 				076E93F7195EF0C70017B641 /* main.m */,
@@ -179,6 +200,10 @@
 				076E9401195EF0C70017B641 /* HUHViewController.m */,
 				0791A54A195F540500C1AF5B /* HUHSessionsTableViewController.h */,
 				0791A54B195F540500C1AF5B /* HUHSessionsTableViewController.m */,
+				0791A54D195F7DA600C1AF5B /* HUHCheckinViewController.h */,
+				0791A54E195F7DA600C1AF5B /* HUHCheckinViewController.m */,
+				0777167A195F96DC008A5C3D /* HUHLoginViewController.h */,
+				0777167B195F96DC008A5C3D /* HUHLoginViewController.m */,
 			);
 			name = ViewControllers;
 			sourceTree = "<group>";
@@ -272,6 +297,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				076E9404195EF0C70017B641 /* Images.xcassets in Resources */,
+				07771686195FF20F008A5C3D /* sidebar-bg.png in Resources */,
 				076E93F6195EF0C70017B641 /* InfoPlist.strings in Resources */,
 				076E93FF195EF0C70017B641 /* Main.storyboard in Resources */,
 			);
@@ -325,9 +351,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0791A54F195F7DA600C1AF5B /* HUHCheckinViewController.m in Sources */,
 				0791A549195F531400C1AF5B /* HUHSessionTableViewCell.m in Sources */,
 				076E93FC195EF0C70017B641 /* HUHAppDelegate.m in Sources */,
 				0791A54C195F540500C1AF5B /* HUHSessionsTableViewController.m in Sources */,
+				0777167C195F96DC008A5C3D /* HUHLoginViewController.m in Sources */,
 				076E93F8195EF0C70017B641 /* main.m in Sources */,
 				076E9402195EF0C70017B641 /* HUHViewController.m in Sources */,
 			);
@@ -455,6 +483,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Huh/Huh-Prefix.pch";
 				INFOPLIST_FILE = "Huh/Huh-Info.plist";
@@ -469,6 +501,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Huh/Huh-Prefix.pch";
 				INFOPLIST_FILE = "Huh/Huh-Info.plist";

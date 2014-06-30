@@ -4,6 +4,21 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Pods-Huh-Bolts.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Huh-CRToast.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Huh-Facebook-iOS-SDK.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-Huh-Firebase.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -22,17 +37,32 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>442DBB9DC0D1432A99226D29</key>
+		<key>281BB35E323D44098B7D1580</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>81D551E354634276A566AA80</key>
+		<key>37F771FE0B034D869130361C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>AED7C8D5BEC04E7CA84F5097</key>
+		<key>3A1865048AD447EABFD7A37B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5FE1CB526FF74DAA9EF50460</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>933243CE6A5F41A98D747635</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D0A006358A3A4C13A6A1D9F3</key>
 		<dict>
 			<key>primary</key>
 			<true/>

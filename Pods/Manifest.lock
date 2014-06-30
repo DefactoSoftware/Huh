@@ -1,12 +1,21 @@
 PODS:
+  - Bolts (1.1.0)
+  - CRToast (0.0.7)
+  - Facebook-iOS-SDK (3.15.0):
+    - Bolts
   - Firebase (1.1.9)
   - JBChartView (2.5.5)
 
 DEPENDENCIES:
+  - CRToast
+  - Facebook-iOS-SDK
   - Firebase
   - JBChartView (~> 2.5.5)
 
 SPEC CHECKSUMS:
+  Bolts: 91c2af8eae1d44e1dd75946a5b0ae04a43ea43e4
+  CRToast: f9f2c4b29776d68ba24c4d621cba59a83fea921b
+  Facebook-iOS-SDK: d67a9aa373f28b581e00cefdfd5a1ab8f883ac14
   Firebase: 389b4d1f1a8f4b9ed53abec2aa62a3ceeafd7fcd
   JBChartView: 666486d81dd16fa0cfac7bc32b4b70d6c52e7162
 

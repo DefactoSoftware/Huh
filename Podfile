@@ -4,6 +4,8 @@
 target "Huh" do
   pod 'JBChartView', '~> 2.5.5'
   pod 'Firebase'
+  pod 'CRToast'
+  pod 'Facebook-iOS-SDK'
 end
 
 target "HuhTests" do

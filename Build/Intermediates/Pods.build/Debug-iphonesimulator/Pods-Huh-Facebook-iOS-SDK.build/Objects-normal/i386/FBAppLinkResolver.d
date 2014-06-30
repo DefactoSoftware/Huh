@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAppLinkResolver.m \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBAppLinkResolver.h \
+  /Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts/BFAppLinkResolving.h \
+  /Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts/BFAppLink.h \
+  /Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts/BFAppLinkTarget.h \
+  /Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts/BFTask.h \
+  /Users/jurre/defacto/Huh/Pods/BuildHeaders/Bolts/BFTaskCompletionSource.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBInternalSettings.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBSettings.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBSDKMacros.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Network/FBRequest+Internal.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBRequest.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBOpenGraphAction.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBOpenGraphObject.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBRequestConnection.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBUtility.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBFetchedAppSettings.h \
+  /Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/Core/FBLogger.h

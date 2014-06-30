@@ -1,0 +1,648 @@
+THuh
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Huh.app/ResourceRules.plist
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Script-4D3EFC10E105434DBE125445.sh
+cProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-ffxgvpnfezjnonhdafdglrekpztd/Huh-Prefix.pch.pch Huh/Huh-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHCheckinViewController.o /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHCheckinViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionTableViewCell.o /Users/jurre/defacto/Huh/Huh/Views/HUHSessionTableViewCell.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHAppDelegate.o /Users/jurre/defacto/Huh/Huh/HUHAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionsTableViewController.o /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHLoginViewController.o /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHLoginViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/main.o /Users/jurre/defacto/Huh/Huh/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHViewController.o /Users/jurre/defacto/Huh/Huh/HUHViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Huh normal arm64
+cCopyStringsFile /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/en.lproj/InfoPlist.strings Huh/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/jurre/defacto/Huh/Huh/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app /Users/jurre/defacto/Huh/Huh/Images.xcassets
+cProcessInfoPlistFile /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Info.plist /Users/jurre/defacto/Huh/Huh/Huh-Info.plist
+cGenerateDSYMFile /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app.dSYM /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Huh
+cPhaseScriptExecution Copy\ Pods\ Resources /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Script-9F8A0DBDCA1C45F1BD3413F4.sh
+cProcessProductPackaging /Users/jurre/Library/MobileDevice/Provisioning\ Profiles/457BC312-0828-48DE-9371-02A13C6FDCB3.mobileprovision /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/embedded.mobileprovision
+cTouch /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh.xcent
+cCodeSign /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534857F80000000000000132
+t1397250040
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c0000000053201F430000000000000094
+t1394614083
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c0000000053201F430000000000000096
+t1394614083
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c0000000053201F43000000000000036B
+t1394614083
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053201F44000000000000019E
+t1394614084
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+c0000000053201F4500000000000CD7C0
+t1394614085
+s841664
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534857B800000000004D7BC0
+t1397249976
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053201F470000000000A90C10
+t1394614087
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Social.framework/Social
+c0000000053201F4800000000002C0C30
+t1394614088
+s2886704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000053201F4D0000000002759920
+t1394614093
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053201F790000000000000ADC
+t1394614137
+s2780
+
+N/Users/jurre/Library/MobileDevice/Provisioning Profiles/457BC312-0828-48DE-9371-02A13C6FDCB3.mobileprovision
+c0000000052E9138C0000000000002667
+t1391006604
+s9831
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh.xcent
+t1404024588
+s400
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHAppDelegate.o
+t1404024586
+s65804
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHCheckinViewController.o
+t1404024586
+s51804
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHLoginViewController.o
+t1404024586
+s46540
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionTableViewCell.o
+t1404024586
+s44320
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionsTableViewController.o
+t1404024586
+s63168
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHViewController.o
+t1404024586
+s70076
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/Huh.LinkFileList
+c0000000053AFB70A000000000000035E
+t1404024586
+s862
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/main.o
+t1404024586
+s4140
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Script-4D3EFC10E105434DBE125445.sh
+c0000000053AFB70A0000000000000103
+t1404024586
+s259
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Script-9F8A0DBDCA1C45F1BD3413F4.sh
+c0000000053AFB70A0000000000000033
+t1404024586
+s51
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/assetcatalog_dependencies.txt
+t1404024588
+s295
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/assetcatalog_generated_info.plist
+t1404024588
+s525
+
+N/Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-ffxgvpnfezjnonhdafdglrekpztd/Huh-Prefix.pch.pch
+t1404024586
+s117120
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app
+t1404024588
+s408
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app.dSYM
+t2
+s0
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Base.lproj/Main.storyboardc
+t1404024588
+s374
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Huh
+t1404024587
+s3332692
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Info.plist
+t1404024588
+s1350
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/PkgInfo
+t1404024588
+s8
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/ResourceRules.plist
+t1404024586
+s150
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/embedded.mobileprovision
+t1404024588
+s9831
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/en.lproj/InfoPlist.strings
+t1404024587
+s42
+
+N/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh.a
+c0000000053AFB70A0000000000647F58
+t1404024586
+s6586200
+
+N/Users/jurre/defacto/Huh/FirebaseSimpleLogin.framework/FirebaseSimpleLogin
+c00000000538444EC000000000012DAD4
+t1401177324
+s1235668
+
+N/Users/jurre/defacto/Huh/Huh/Base.lproj/Main.storyboard
+c0000000053AF625E0000000000005270
+t1404002910
+s21104
+
+N/Users/jurre/defacto/Huh/Huh/HUHAppDelegate.m
+c0000000053AFB70100000000000002E4
+t1404024577
+s740
+
+N/Users/jurre/defacto/Huh/Huh/HUHViewController.m
+c0000000053AF51B00000000000000B3B
+t1403998640
+s2875
+
+N/Users/jurre/defacto/Huh/Huh/Huh-Info.plist
+c0000000053AFB700000000000000055D
+t1404024576
+s1373
+
+N/Users/jurre/defacto/Huh/Huh/Huh-Prefix.pch
+c0000000053AEB9470000000000000158
+t1403959623
+s344
+
+N/Users/jurre/defacto/Huh/Huh/Images.xcassets
+c0000000053AEB9470000000000000088
+t1403959623
+s136
+
+N/Users/jurre/defacto/Huh/Huh/ViewControllers/HUHCheckinViewController.m
+c0000000053AF51B20000000000000377
+t1403998642
+s887
+
+N/Users/jurre/defacto/Huh/Huh/ViewControllers/HUHLoginViewController.m
+c0000000053AFB4E5000000000000057C
+t1404024037
+s1404
+
+N/Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m
+c0000000053AF53CE0000000000000A52
+t1403999182
+s2642
+
+N/Users/jurre/defacto/Huh/Huh/Views/HUHSessionTableViewCell.m
+c0000000053AF1BEA00000000000000E1
+t1403984874
+s225
+
+N/Users/jurre/defacto/Huh/Huh/en.lproj/InfoPlist.strings
+c0000000053AEB947000000000000002D
+t1403959623
+s45
+
+N/Users/jurre/defacto/Huh/Huh/main.m
+c0000000053AEB9470000000000000150
+t1403959623
+s336
+
+CBuild AST from /Users/jurre/defacto/Huh/Huh/HUHAppDelegate.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Huh/HUHViewController.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHCheckinViewController.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHLoginViewController.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Huh/Views/HUHSessionTableViewCell.m
+r0
+
+CBuild AST from /Users/jurre/defacto/Huh/Huh/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2d0b6a8aee5fb941^cbd66a8aee5fb941^---0#1#1#--18"Check dependencies36"C5D442BF-C167-4CDD-93B6-2CA5C0EFBAFD-
+
+CCodeSign /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app
+s425717388.866441
+e425717389.053658
+r1
+xCodeSign
+x/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"CodeSign Build/Products/Debug-iphoneos/Huh.app46"CodeSign Build/Products/Debug-iphoneos/Huh.app9cdedd8cee5fb941^84bd0d8dee5fb941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/0000000000000000^925"CodeSign Build/Products/Debug-iphoneos/Huh.app    cd /Users/jurre/defacto/Huh    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Jurre Stender (NPDR323LHN)" and provisioning profile "iOS Team Provisioning Profile: *" (457BC312-0828-48DE-9371-02A13C6FDCB3)    /usr/bin/codesign --force --sign 5A2D8AB198DFCF7C7FA501A8B5AA7DBAE8E4AABD --resource-rules=/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/ResourceRules.plist --entitlements /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh.xcent /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app36"160A4A60-4434-4AE5-9ED8-5999C26637EB-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CCompileAssetCatalog /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app /Users/jurre/defacto/Huh/Huh/Images.xcassets
+s425717387.159761
+e425717388.039068
+r1
+xCompileAssetCatalog
+x/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app
+x/Users/jurre/defacto/Huh/Huh/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/LaunchImage-700-568h@2x.png
+o/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Assets.car
+o/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"CompileAssetCatalog Build/Products/Debug-iphoneos/Huh.app Huh/Images.xcassets77"CompileAssetCatalog Build/Products/Debug-iphoneos/Huh.app Huh/Images.xcassets87fb288bee5fb941^61ff098cee5fb941^-323"/* com.apple.actool.compilation-results *//Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/LaunchImage-700-568h@2x.png/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Assets.car/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@52"file:///Users/jurre/defacto/Huh/Huh/Images.xcassets/0000000000000000^949"CompileAssetCatalog Build/Products/Debug-iphoneos/Huh.app Huh/Images.xcassets    cd /Users/jurre/defacto/Huh    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app /Users/jurre/defacto/Huh/Huh/Images.xcassets36"13D9972C-06F3-4B3E-91D3-85F9C918FE44-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CCompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHAppDelegate.o /Users/jurre/defacto/Huh/Huh/HUHAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425717386.523472
+e425717386.642026
+r1
+xCompileC
+xBuild/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHAppDelegate.o
+x/Users/jurre/defacto/Huh/Huh/HUHAppDelegate.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Huh/HUHAppDelegate.m
+d/Users/jurre/defacto/Huh/Huh/HUHAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/jurre/defacto/Huh/Huh/HUHAppDelegate.m191"CompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHAppDelegate.o Huh/HUHAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5724868aee5fb941^2b6ea48aee5fb941^---0#0#1#-19%DVTDocumentLocation2@52"file:///Users/jurre/defacto/Huh/Huh/HUHAppDelegate.m0000000000000000^3948"CompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHAppDelegate.o Huh/HUHAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/include -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/DerivedSources/arm64 -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -F/Users/jurre/defacto/Huh/Pods/Firebase -F/Users/jurre/defacto/Huh -isystem /Users/jurre/defacto/Huh/Pods/Headers -isystem /Users/jurre/defacto/Huh/Pods/Headers/Bolts -isystem /Users/jurre/defacto/Huh/Pods/Headers/CRToast -isystem /Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -isystem /Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/jurre/defacto/Huh/Pods/Headers/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Headers/JBChartView -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-ffxgvpnfezjnonhdafdglrekpztd/Huh-Prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHAppDelegate.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHAppDelegate.dia -c /Users/jurre/defacto/Huh/Huh/HUHAppDelegate.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHAppDelegate.o36"95A3FDA1-292F-4F77-8C56-894EDD5F2A76-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CCompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHCheckinViewController.o /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHCheckinViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425717386.519408
+e425717386.617872
+r1
+xCompileC
+xBuild/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHCheckinViewController.o
+x/Users/jurre/defacto/Huh/Huh/ViewControllers/HUHCheckinViewController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Huh/ViewControllers/HUHCheckinViewController.m
+d/Users/jurre/defacto/Huh/Huh/ViewControllers/HUHCheckinViewController.h
+d/Users/jurre/defacto/Huh/Huh/HUHViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHCheckinViewController.m227"CompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHCheckinViewController.o Huh/ViewControllers/HUHCheckinViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler651a858aee5fb941^79ea9d8aee5fb941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/jurre/defacto/Huh/Huh/ViewControllers/HUHCheckinViewController.m0000000000000000^4040"CompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHCheckinViewController.o Huh/ViewControllers/HUHCheckinViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/include -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/DerivedSources/arm64 -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -F/Users/jurre/defacto/Huh/Pods/Firebase -F/Users/jurre/defacto/Huh -isystem /Users/jurre/defacto/Huh/Pods/Headers -isystem /Users/jurre/defacto/Huh/Pods/Headers/Bolts -isystem /Users/jurre/defacto/Huh/Pods/Headers/CRToast -isystem /Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -isystem /Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/jurre/defacto/Huh/Pods/Headers/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Headers/JBChartView -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-ffxgvpnfezjnonhdafdglrekpztd/Huh-Prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHCheckinViewController.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHCheckinViewController.dia -c /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHCheckinViewController.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHCheckinViewController.o36"7D1B1C3B-7456-4BF5-8660-A4CE97CDB6D5-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CCompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHLoginViewController.o /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHLoginViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425717386.606525
+e425717386.698645
+r1
+xCompileC
+xBuild/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHLoginViewController.o
+x/Users/jurre/defacto/Huh/Huh/ViewControllers/HUHLoginViewController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Huh/ViewControllers/HUHLoginViewController.m
+d/Users/jurre/defacto/Huh/Huh/ViewControllers/HUHLoginViewController.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/Firebase.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FQuery.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FEventType.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FDataSnapshot.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FMutableData.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FTransactionResult.h
+d/Users/jurre/defacto/Huh/FirebaseSimpleLogin.framework/Headers/FirebaseSimpleLogin.h
+d/Users/jurre/defacto/Huh/FirebaseSimpleLogin.framework/Headers/FAUser.h
+d/Users/jurre/defacto/Huh/FirebaseSimpleLogin.framework/Headers/FATypes.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHLoginViewController.m223"CompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHLoginViewController.o Huh/ViewControllers/HUHLoginViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler99659b8aee5fb941^fddab28aee5fb941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/jurre/defacto/Huh/Huh/ViewControllers/HUHLoginViewController.m0000000000000000^4028"CompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHLoginViewController.o Huh/ViewControllers/HUHLoginViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/include -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/DerivedSources/arm64 -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -F/Users/jurre/defacto/Huh/Pods/Firebase -F/Users/jurre/defacto/Huh -isystem /Users/jurre/defacto/Huh/Pods/Headers -isystem /Users/jurre/defacto/Huh/Pods/Headers/Bolts -isystem /Users/jurre/defacto/Huh/Pods/Headers/CRToast -isystem /Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -isystem /Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/jurre/defacto/Huh/Pods/Headers/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Headers/JBChartView -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-ffxgvpnfezjnonhdafdglrekpztd/Huh-Prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHLoginViewController.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHLoginViewController.dia -c /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHLoginViewController.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHLoginViewController.o36"6E011048-C387-47C5-9F60-9E6CD7C1937F-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CCompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionTableViewCell.o /Users/jurre/defacto/Huh/Huh/Views/HUHSessionTableViewCell.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425717386.522095
+e425717386.606275
+r1
+xCompileC
+xBuild/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionTableViewCell.o
+x/Users/jurre/defacto/Huh/Huh/Views/HUHSessionTableViewCell.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Huh/Views/HUHSessionTableViewCell.m
+d/Users/jurre/defacto/Huh/Huh/Views/HUHSessionTableViewCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/jurre/defacto/Huh/Huh/Views/HUHSessionTableViewCell.m215"CompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionTableViewCell.o Huh/Views/HUHSessionTableViewCell.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler26c7858aee5fb941^9f779b8aee5fb941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/jurre/defacto/Huh/Huh/Views/HUHSessionTableViewCell.m0000000000000000^4014"CompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionTableViewCell.o Huh/Views/HUHSessionTableViewCell.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/include -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/DerivedSources/arm64 -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -F/Users/jurre/defacto/Huh/Pods/Firebase -F/Users/jurre/defacto/Huh -isystem /Users/jurre/defacto/Huh/Pods/Headers -isystem /Users/jurre/defacto/Huh/Pods/Headers/Bolts -isystem /Users/jurre/defacto/Huh/Pods/Headers/CRToast -isystem /Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -isystem /Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/jurre/defacto/Huh/Pods/Headers/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Headers/JBChartView -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-ffxgvpnfezjnonhdafdglrekpztd/Huh-Prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionTableViewCell.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionTableViewCell.dia -c /Users/jurre/defacto/Huh/Huh/Views/HUHSessionTableViewCell.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionTableViewCell.o36"DA877AA3-0127-4F64-928E-26A6E6539B63-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CCompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionsTableViewController.o /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425717386.525264
+e425717386.631666
+r1
+xCompileC
+xBuild/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionsTableViewController.o
+x/Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m
+d/Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/Firebase.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FQuery.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FEventType.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FDataSnapshot.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FMutableData.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FTransactionResult.h
+d/Users/jurre/defacto/Huh/Huh/Views/HUHSessionTableViewCell.h
+d/Users/jurre/defacto/Huh/Huh/ViewControllers/HUHCheckinViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m239"CompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionsTableViewController.o Huh/ViewControllers/HUHSessionsTableViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0398868aee5fb941^a6b5a18aee5fb941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m0000000000000000^4076"CompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionsTableViewController.o Huh/ViewControllers/HUHSessionsTableViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/include -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/DerivedSources/arm64 -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -F/Users/jurre/defacto/Huh/Pods/Firebase -F/Users/jurre/defacto/Huh -isystem /Users/jurre/defacto/Huh/Pods/Headers -isystem /Users/jurre/defacto/Huh/Pods/Headers/Bolts -isystem /Users/jurre/defacto/Huh/Pods/Headers/CRToast -isystem /Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -isystem /Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/jurre/defacto/Huh/Pods/Headers/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Headers/JBChartView -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-ffxgvpnfezjnonhdafdglrekpztd/Huh-Prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionsTableViewController.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionsTableViewController.dia -c /Users/jurre/defacto/Huh/Huh/ViewControllers/HUHSessionsTableViewController.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionsTableViewController.o36"42BB209D-51F4-4E03-908F-8A512268EDAB-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CCompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHViewController.o /Users/jurre/defacto/Huh/Huh/HUHViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425717386.633104
+e425717386.746727
+r1
+xCompileC
+xBuild/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHViewController.o
+x/Users/jurre/defacto/Huh/Huh/HUHViewController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Huh/HUHViewController.m
+d/Users/jurre/defacto/Huh/Huh/HUHViewController.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/Firebase.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FQuery.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FEventType.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FDataSnapshot.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FMutableData.h
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Headers/FTransactionResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/jurre/defacto/Huh/Huh/HUHViewController.m197"CompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHViewController.o Huh/HUHViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5131a28aee5fb941^172abf8aee5fb941^---0#0#1#-19%DVTDocumentLocation2@55"file:///Users/jurre/defacto/Huh/Huh/HUHViewController.m0000000000000000^3966"CompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHViewController.o Huh/HUHViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/include -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/DerivedSources/arm64 -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -F/Users/jurre/defacto/Huh/Pods/Firebase -F/Users/jurre/defacto/Huh -isystem /Users/jurre/defacto/Huh/Pods/Headers -isystem /Users/jurre/defacto/Huh/Pods/Headers/Bolts -isystem /Users/jurre/defacto/Huh/Pods/Headers/CRToast -isystem /Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -isystem /Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/jurre/defacto/Huh/Pods/Headers/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Headers/JBChartView -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-ffxgvpnfezjnonhdafdglrekpztd/Huh-Prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHViewController.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHViewController.dia -c /Users/jurre/defacto/Huh/Huh/HUHViewController.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHViewController.o36"D87EDF0D-5574-49B2-BF18-0F443EDF80EE-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CCompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/main.o /Users/jurre/defacto/Huh/Huh/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425717386.618224
+e425717386.662396
+r1
+xCompileC
+xBuild/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/main.o
+x/Users/jurre/defacto/Huh/Huh/main.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Huh/main.m
+d/Users/jurre/defacto/Huh/Huh/HUHAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Compile /Users/jurre/defacto/Huh/Huh/main.m171"CompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/main.o Huh/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd8639e8aee5fb941^1d93a98aee5fb941^---0#0#1#-19%DVTDocumentLocation2@42"file:///Users/jurre/defacto/Huh/Huh/main.m0000000000000000^3888"CompileC Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/main.o Huh/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/include -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/DerivedSources/arm64 -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -F/Users/jurre/defacto/Huh/Pods/Firebase -F/Users/jurre/defacto/Huh -isystem /Users/jurre/defacto/Huh/Pods/Headers -isystem /Users/jurre/defacto/Huh/Pods/Headers/Bolts -isystem /Users/jurre/defacto/Huh/Pods/Headers/CRToast -isystem /Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -isystem /Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/jurre/defacto/Huh/Pods/Headers/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Headers/JBChartView -include /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-ffxgvpnfezjnonhdafdglrekpztd/Huh-Prefix.pch -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/main.d --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/main.dia -c /Users/jurre/defacto/Huh/Huh/main.m -o /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/main.o36"1B2AAFC9-C06D-4B62-817B-45D6CADA5E07-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CCompileStoryboard /Users/jurre/defacto/Huh/Huh/Base.lproj/Main.storyboard
+s425717387.158671
+e425717388.334355
+r1
+xCompileStoryboard
+x/Users/jurre/defacto/Huh/Huh/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"CompileStoryboard Huh/Base.lproj/Main.storyboard48"CompileStoryboard Huh/Base.lproj/Main.storyboardaebc288bee5fb941^9e98558cee5fb941^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/jurre/defacto/Huh/Huh/Base.lproj/Main.storyboard0000000000000000^726"CompileStoryboard Huh/Base.lproj/Main.storyboard    cd /Users/jurre/defacto/Huh    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Base.lproj/Main.storyboardc /Users/jurre/defacto/Huh/Huh/Base.lproj/Main.storyboard36"B1DDF563-8555-461F-BB98-27944E589610-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CCopyStringsFile /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/en.lproj/InfoPlist.strings Huh/en.lproj/InfoPlist.strings
+s425717387.157181
+e425717387.158738
+r1
+xCopyStringsFile
+x/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/en.lproj/InfoPlist.strings
+xHuh/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Copy Huh/en.lproj/InfoPlist.strings111"CopyStringsFile Build/Products/Debug-iphoneos/Huh.app/en.lproj/InfoPlist.strings Huh/en.lproj/InfoPlist.strings1a4f288bee5fb941^a8a6288bee5fb941^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/jurre/defacto/Huh/Huh/en.lproj/InfoPlist.strings0000000000000000^528"CopyStringsFile Build/Products/Debug-iphoneos/Huh.app/en.lproj/InfoPlist.strings Huh/en.lproj/InfoPlist.strings    cd /Users/jurre/defacto/Huh    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/en.lproj -- Huh/en.lproj/InfoPlist.strings36"9595BFD2-7798-4023-B8A0-164D43C5BEE2-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Huh.app/ResourceRules.plist
+s425717386.418083
+e425717386.419105
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xBuild/Products/Debug-iphoneos/Huh.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy Build/Products/Debug-iphoneos/Huh.app/ResourceRules.plist190"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Huh.app/ResourceRules.plist1a1a6b8aee5fb941^00716b8aee5fb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/ResourceRules.plist00340882dcffdf42^708"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Huh.app/ResourceRules.plist    cd /Users/jurre/defacto/Huh    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app36"113A4D39-9C49-46EC-9423-907C58AAFEEF-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CGenerateDSYMFile /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app.dSYM /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Huh
+s425717388.336893
+e425717388.515729
+r1
+xGenerateDSYMFile
+x/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app.dSYM
+x/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Huh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Generate /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app.dSYM101"GenerateDSYMFile Build/Products/Debug-iphoneos/Huh.app.dSYM Build/Products/Debug-iphoneos/Huh.app/Huhe04a568cee5fb941^7907848cee5fb941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app.dSYM00340882dcffdf42^560"GenerateDSYMFile Build/Products/Debug-iphoneos/Huh.app.dSYM Build/Products/Debug-iphoneos/Huh.app/Huh    cd /Users/jurre/defacto/Huh    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Huh -o /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app.dSYM36"3652672E-668F-4AE2-845B-C256E79525AD-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CLd /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Huh normal arm64
+s425717386.748029
+e425717387.154328
+r1
+xLd
+x/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Huh
+xnormal
+xarm64
+d/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/Huh.LinkFileList
+d/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHCheckinViewController.o
+d/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionTableViewCell.o
+d/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHAppDelegate.o
+d/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHSessionsTableViewController.o
+d/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHLoginViewController.o
+d/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/main.o
+d/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/HUHViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libicucore.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Users/jurre/defacto/Huh/Pods/Firebase/Firebase.framework/Firebase
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Social.framework/Social
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Users/jurre/defacto/Huh/FirebaseSimpleLogin.framework/FirebaseSimpleLogin
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/libPods-Huh.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AdSupport.framework/AdSupport
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Link /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Huh57"Ld Build/Products/Debug-iphoneos/Huh.app/Huh normal arm642c9dbf8aee5fb941^209c278bee5fb941^---0#0#1#--1505"Ld Build/Products/Debug-iphoneos/Huh.app/Huh normal arm64    cd /Users/jurre/defacto/Huh    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -F/Users/jurre/defacto/Huh/Pods/Firebase -F/Users/jurre/defacto/Huh -filelist /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/Huh.LinkFileList -dead_strip -ObjC -lc++ -licucore -framework CFNetwork -framework CoreLocation -framework Firebase -framework Security -framework SystemConfiguration -weak_framework Accounts -weak_framework Security -weak_framework Social -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.1 -framework Accounts -framework Social -framework CoreGraphics -framework FirebaseSimpleLogin -framework UIKit -framework Foundation -lPods-Huh -Xlinker -dependency_info -Xlinker /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Objects-normal/arm64/Huh_dependency_info.dat -o /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Huh36"7FD0FB0F-2023-4F12-82D0-BF57579424EA-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Script-4D3EFC10E105434DBE125445.sh
+s425717386.421546
+e425717386.441567
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Script-4D3EFC10E105434DBE125445.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'137"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Script-4D3EFC10E105434DBE125445.sh49676c8aee5fb941^200b718aee5fb941^---0#0#1#--300"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Script-4D3EFC10E105434DBE125445.sh    cd /Users/jurre/defacto/Huh    /bin/sh -c /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Script-4D3EFC10E105434DBE125445.sh36"0D68564B-9F3F-4E11-BA3C-289B2533FA3F-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Script-9F8A0DBDCA1C45F1BD3413F4.sh
+s425717388.516960
+e425717388.862999
+r1
+xPhaseScriptExecution
+xCopy Pods Resources
+x/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Script-9F8A0DBDCA1C45F1BD3413F4.sh
+o/Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundle
+obuilding file list ... done
+oFBUserSettingsViewResources.bundle/
+oFBUserSettingsViewResources.bundle/Contents/
+oFBUserSettingsViewResources.bundle/Contents/Resources/
+oFBUserSettingsViewResources.bundle/Contents/Resources/en.lproj/
+oFBUserSettingsViewResources.bundle/Contents/Resources/en.lproj/Localizable.strings
+oFBUserSettingsViewResources.bundle/Contents/Resources/he.lproj/
+oFBUserSettingsViewResources.bundle/Contents/Resources/he.lproj/Localizable.strings
+oFBUserSettingsViewResources.bundle/images/
+oFBUserSettingsViewResources.bundle/images/facebook-logo.png
+oFBUserSettingsViewResources.bundle/images/facebook-logo@2x.png
+oFBUserSettingsViewResources.bundle/images/loginBackgroundIPadLandscape.jpg
+oFBUserSettingsViewResources.bundle/images/loginBackgroundIPadLandscape@2x.jpg
+oFBUserSettingsViewResources.bundle/images/loginBackgroundIPadPortrait.jpg
+oFBUserSettingsViewResources.bundle/images/loginBackgroundIPadPortrait@2x.jpg
+oFBUserSettingsViewResources.bundle/images/loginBackgroundIPhonePortrait.jpg
+oFBUserSettingsViewResources.bundle/images/loginBackgroundIPhonePortrait@2x.jpg
+oFBUserSettingsViewResources.bundle/images/silver-button-normal.png
+oFBUserSettingsViewResources.bundle/images/silver-button-normal@2x.png
+oFBUserSettingsViewResources.bundle/images/silver-button-pressed.png
+oFBUserSettingsViewResources.bundle/images/silver-button-pressed@2x.png
+o
+osent 1072736 bytes  received 364 bytes  2146200.00 bytes/sec
+ototal size is 1071435  speedup is 1.00
+o/* com.apple.actool.compilation-results */
+o/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Assets.car
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'132"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Script-9F8A0DBDCA1C45F1BD3413F4.sh0da7848cee5fb941^e38bf68cee5fb941^-1664"/Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundlebuilding file list ... doneFBUserSettingsViewResources.bundle/FBUserSettingsViewResources.bundle/Contents/FBUserSettingsViewResources.bundle/Contents/Resources/FBUserSettingsViewResources.bundle/Contents/Resources/en.lproj/FBUserSettingsViewResources.bundle/Contents/Resources/en.lproj/Localizable.stringsFBUserSettingsViewResources.bundle/Contents/Resources/he.lproj/FBUserSettingsViewResources.bundle/Contents/Resources/he.lproj/Localizable.stringsFBUserSettingsViewResources.bundle/images/FBUserSettingsViewResources.bundle/images/facebook-logo.pngFBUserSettingsViewResources.bundle/images/facebook-logo@2x.pngFBUserSettingsViewResources.bundle/images/loginBackgroundIPadLandscape.jpgFBUserSettingsViewResources.bundle/images/loginBackgroundIPadLandscape@2x.jpgFBUserSettingsViewResources.bundle/images/loginBackgroundIPadPortrait.jpgFBUserSettingsViewResources.bundle/images/loginBackgroundIPadPortrait@2x.jpgFBUserSettingsViewResources.bundle/images/loginBackgroundIPhonePortrait.jpgFBUserSettingsViewResources.bundle/images/loginBackgroundIPhonePortrait@2x.jpgFBUserSettingsViewResources.bundle/images/silver-button-normal.pngFBUserSettingsViewResources.bundle/images/silver-button-normal@2x.pngFBUserSettingsViewResources.bundle/images/silver-button-pressed.pngFBUserSettingsViewResources.bundle/images/silver-button-pressed@2x.pngsent 1072736 bytes  received 364 bytes  2146200.00 bytes/sectotal size is 1071435  speedup is 1.00/* com.apple.actool.compilation-results *//Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Assets.car26(21%IDEActivityLogMessage2@86"/Users/jurre/defacto/Huh/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundle-425717388#0#86#-0#-----2@28"building file list ... done-425717388#86#28#-0#-----2@36"FBUserSettingsViewResources.bundle/-425717388#114#36#-0#-----2@45"FBUserSettingsViewResources.bundle/Contents/-425717388#150#45#-0#-----2@55"FBUserSettingsViewResources.bundle/Contents/Resources/-425717388#195#55#-0#-----2@64"FBUserSettingsViewResources.bundle/Contents/Resources/en.lproj/-425717388#250#64#-0#-----2@83"FBUserSettingsViewResources.bundle/Contents/Resources/en.lproj/Localizable.strings-425717388#314#83#-0#-----2@64"FBUserSettingsViewResources.bundle/Contents/Resources/he.lproj/-425717388#397#64#-0#-----2@83"FBUserSettingsViewResources.bundle/Contents/Resources/he.lproj/Localizable.strings-425717388#461#83#-0#-----2@43"FBUserSettingsViewResources.bundle/images/-425717388#544#43#-0#-----2@60"FBUserSettingsViewResources.bundle/images/facebook-logo.png-425717388#587#60#-0#-----2@63"FBUserSettingsViewResources.bundle/images/facebook-logo@2x.png-425717388#647#63#-0#-----2@75"FBUserSettingsViewResources.bundle/images/loginBackgroundIPadLandscape.jpg-425717388#710#75#-0#-----2@78"FBUserSettingsViewResources.bundle/images/loginBackgroundIPadLandscape@2x.jpg-425717388#785#78#-0#-----2@74"FBUserSettingsViewResources.bundle/images/loginBackgroundIPadPortrait.jpg-425717388#863#74#-0#-----2@77"FBUserSettingsViewResources.bundle/images/loginBackgroundIPadPortrait@2x.jpg-425717388#937#77#-0#-----2@76"FBUserSettingsViewResources.bundle/images/loginBackgroundIPhonePortrait.jpg-425717388#1014#76#-0#-----2@79"FBUserSettingsViewResources.bundle/images/loginBackgroundIPhonePortrait@2x.jpg-425717388#1090#79#-0#-----2@67"FBUserSettingsViewResources.bundle/images/silver-button-normal.png-425717388#1169#67#-0#-----2@70"FBUserSettingsViewResources.bundle/images/silver-button-normal@2x.png-425717388#1236#70#-0#-----2@68"FBUserSettingsViewResources.bundle/images/silver-button-pressed.png-425717388#1306#68#-0#-----2@71"FBUserSettingsViewResources.bundle/images/silver-button-pressed@2x.png-425717388#1374#71#-0#-----2@61"sent 1072736 bytes  received 364 bytes  2146200.00 bytes/sec-425717388#1446#61#-0#-----2@39"total size is 1071435  speedup is 1.00-425717388#1507#39#-0#-----2@43"/* com.apple.actool.compilation-results */-425717388#1546#43#-0#-----2@74"/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Assets.car-425717388#1589#74#-0#-----0#0#1#--295"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Script-9F8A0DBDCA1C45F1BD3413F4.sh    cd /Users/jurre/defacto/Huh    /bin/sh -c /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Script-9F8A0DBDCA1C45F1BD3413F4.sh36"F662D399-D6E1-49C8-ABF1-ED9385B5BA31-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CProcessInfoPlistFile /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Info.plist /Users/jurre/defacto/Huh/Huh/Huh-Info.plist
+s425717388.334886
+e425717388.336494
+r1
+xProcessInfoPlistFile
+x/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Info.plist
+x/Users/jurre/defacto/Huh/Huh/Huh-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Process /Users/jurre/defacto/Huh/Huh/Huh-Info.plist88"ProcessInfoPlistFile Build/Products/Debug-iphoneos/Huh.app/Info.plist Huh/Huh-Info.plist8ac7558cee5fb941^3e26568cee5fb941^---0#0#1#-19%DVTDocumentLocation2@50"file:///Users/jurre/defacto/Huh/Huh/Huh-Info.plist0000000000000000^836"ProcessInfoPlistFile Build/Products/Debug-iphoneos/Huh.app/Info.plist Huh/Huh-Info.plist    cd /Users/jurre/defacto/Huh    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/jurre/defacto/Huh/Huh/Huh-Info.plist -genpkginfo /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/ResourceRules.plist -additionalcontentfile /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/assetcatalog_generated_info.plist -o /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/Info.plist36"E4D5AA35-EB8A-478E-B575-48FC72909FE1-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CProcessPCH /Users/jurre/Library/Developer/Xcode/DerivedData/Huh-dycbxueijepidgdfaqhzvwvwiwiu/Index/PrecompiledHeaders/Huh-Prefix-ecybijyvydbswngleoacgtjydrqz_ast/Huh-Prefix.pch.pch Huh/Huh-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-ffxgvpnfezjnonhdafdglrekpztd/Huh-Prefix.pch.pch Huh/Huh-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425717386.443433
+e425717386.516105
+r1
+xProcessPCH
+x/Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-ffxgvpnfezjnonhdafdglrekpztd/Huh-Prefix.pch.pch
+xHuh/Huh-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jurre/defacto/Huh/Huh/Huh-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Precompile Huh/Huh-Prefix.pch196"ProcessPCH Build/Intermediates/PrecompiledHeaders/Huh-Prefix-ffxgvpnfezjnonhdafdglrekpztd/Huh-Prefix.pch.pch Huh/Huh-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler12a5718aee5fb941^6adc838aee5fb941^---0#0#1#-19%DVTDocumentLocation2@50"file:///Users/jurre/defacto/Huh/Huh/Huh-Prefix.pch0000000000000000^3841"ProcessPCH Build/Intermediates/PrecompiledHeaders/Huh-Prefix-ffxgvpnfezjnonhdafdglrekpztd/Huh-Prefix.pch.pch Huh/Huh-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jurre/defacto/Huh    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jurre/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-generated-files.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-own-target-headers.hmap -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-all-target-headers.hmap -iquote /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh-project-headers.hmap -I/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/include -I/Users/jurre/defacto/Huh/Pods/Headers -I/Users/jurre/defacto/Huh/Pods/Headers/Bolts -I/Users/jurre/defacto/Huh/Pods/Headers/CRToast -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -I/Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/jurre/defacto/Huh/Pods/Headers/Firebase -I/Users/jurre/defacto/Huh/Pods/Headers/JBChartView -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/DerivedSources/arm64 -I/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/DerivedSources -F/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos -F/Users/jurre/defacto/Huh/Pods/Firebase -F/Users/jurre/defacto/Huh -isystem /Users/jurre/defacto/Huh/Pods/Headers -isystem /Users/jurre/defacto/Huh/Pods/Headers/Bolts -isystem /Users/jurre/defacto/Huh/Pods/Headers/CRToast -isystem /Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK -isystem /Users/jurre/defacto/Huh/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -isystem /Users/jurre/defacto/Huh/Pods/Headers/Firebase -isystem /Users/jurre/defacto/Huh/Pods/Headers/JBChartView --serialize-diagnostics /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-ffxgvpnfezjnonhdafdglrekpztd/Huh-Prefix.pch.dia -MMD -MT dependencies -MF /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-ffxgvpnfezjnonhdafdglrekpztd/Huh-Prefix.pch.d -c /Users/jurre/defacto/Huh/Huh/Huh-Prefix.pch -o /Users/jurre/defacto/Huh/Build/Intermediates/PrecompiledHeaders/Huh-Prefix-ffxgvpnfezjnonhdafdglrekpztd/Huh-Prefix.pch.pch36"B50BB091-2982-4490-86E3-E5A3AB7C3CF1-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh.xcent
+s425717388.865242
+e425717388.866165
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection209"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh.xcent209"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh.xcent768add8cee5fb941^9292f68cee5fb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh.xcent00340882dcffdf42^706"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh.xcent    cd /Users/jurre/defacto/Huh    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/jurre/defacto/Huh/Build/Intermediates/Huh.build/Debug-iphoneos/Huh.build/Huh.xcent36"795D418E-5BD4-4A0D-871F-774E769A9844-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CProcessProductPackaging /Users/jurre/Library/MobileDevice/Provisioning\ Profiles/457BC312-0828-48DE-9371-02A13C6FDCB3.mobileprovision /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/embedded.mobileprovision
+s425717388.863434
+e425717388.864664
+r1
+xProcessProductPackaging
+x/Users/jurre/Library/MobileDevice/Provisioning Profiles/457BC312-0828-48DE-9371-02A13C6FDCB3.mobileprovision
+x/Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection196"ProcessProductPackaging /Users/jurre/Library/MobileDevice/Provisioning\ Profiles/457BC312-0828-48DE-9371-02A13C6FDCB3.mobileprovision Build/Products/Debug-iphoneos/Huh.app/embedded.mobileprovision196"ProcessProductPackaging /Users/jurre/Library/MobileDevice/Provisioning\ Profiles/457BC312-0828-48DE-9371-02A13C6FDCB3.mobileprovision Build/Products/Debug-iphoneos/Huh.app/embedded.mobileprovisiondf15dd8cee5fb941^828ef68cee5fb941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/embedded.mobileprovision00340882dcffdf42^654"ProcessProductPackaging /Users/jurre/Library/MobileDevice/Provisioning\ Profiles/457BC312-0828-48DE-9371-02A13C6FDCB3.mobileprovision Build/Products/Debug-iphoneos/Huh.app/embedded.mobileprovision    cd /Users/jurre/defacto/Huh    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/jurre/Library/MobileDevice/Provisioning\ Profiles/457BC312-0828-48DE-9371-02A13C6FDCB3.mobileprovision -o /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app/embedded.mobileprovision36"F6DD7701-C30C-4404-B276-831ED0F852F4-
+bC7B85B6B-B548-437A-B876-ABF95046E3E2
+
+CTouch /Users/jurre/defacto/Huh/Build/Products/Debug-iphoneos/Huh.app
+r0
+

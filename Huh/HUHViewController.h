@@ -13,6 +13,8 @@
 
 @property (nonatomic, weak) IBOutlet JBLineChartView *lineChart;
 
+@property (nonatomic, weak) IBOutlet UILabel *statLabel;
+
 @property (nonatomic, strong) NSString *sessionId;
 
 - (IBAction)huhButtonTapped:(id)sender;
